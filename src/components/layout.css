@@ -108,7 +108,7 @@ body {
   font: 62.7% "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: 0;
   color: #333;
-  background-color: #fff;
+  background-color: #efefef;
 }
 
 h1 {
@@ -200,11 +200,12 @@ strong {
 }
 
 /* Header/title */
-#header {
-  margin: 30px auto;
+header {
   text-align: center;
+  border-bottom: 1px solid #ccc;
+  background-color: #fff;
 }
-#header h1 {
+header h1 {
   text-shadow: 1px 1px #999;
   color: #333;
 }
@@ -426,9 +427,15 @@ div.lets-talk a.book-me-link span.on-ohours {
 }
 
 /* Footer */
-#footer {
+footer {
   text-align: center;
-  margin: 30px auto 15px auto;
-  font-size: 1em;
   color: #666;
+  background-color: #fff;
+  border-top: 1px solid #ccc;
+  padding-top: 30px;
+  padding-bottom: 15px;
+}
+
+footer p {
+  font-size: 1.4em;
 }

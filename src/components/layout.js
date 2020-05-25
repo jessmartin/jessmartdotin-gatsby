@@ -27,8 +27,10 @@ const Layout = ({ children }) => {
         }}
       >
         <main>{children}</main>
-        <footer>© {new Date().getFullYear()} - Jess Martin</footer>
       </div>
+      <footer>
+        <p>© {new Date().getFullYear()} - Jess Martin</p>
+      </footer>
     </>
   )
 }
