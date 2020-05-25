@@ -175,15 +175,6 @@ a:hover {
   text-decoration: underline;
 }
 
-img {
-  background-color: #fff;
-  padding: 3px;
-  border: 1px solid #ccc;
-  margin-bottom: -5px;
-  margin-left: 20px;
-  margin-right: 20px;
-}
-
 strong {
   font-weight: bold;
 }
@@ -287,10 +278,13 @@ header h1 {
   font-weight: 700;
 }
 
-img.portrait {
+.portrait {
   float: right;
-  margin-left: 20px;
-  margin-bottom: 5px;
+  width: 180px;
+  height: 180px;
+  background-color: #fff;
+  padding: 3px;
+  border: 1px solid #ccc;
 }
 
 .left-title {
