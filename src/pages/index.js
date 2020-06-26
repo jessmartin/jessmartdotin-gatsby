@@ -19,7 +19,7 @@ const IndexPage = () => (
       I work with businesses to design, develop and deploy web and mobile
       products.{" "}
       <strong>
-        <a class="hire-me strikethrough" href="/hireme">
+        <a class="hire-me strikethrough" href="">
           Hire me.
         </a>
       </strong>
