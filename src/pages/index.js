@@ -31,7 +31,12 @@ const IndexPage = () => (
     <ul>
       <li>
         <a href="http://first.io">First</a> - Helping real estate agents connect
-        with their clients at the perfect time.
+        with their clients at the perfect time. Acquired by{" "}
+        <a href="https://remax.com">RE/MAX</a> (
+        <a href="https://investors.remax.com/investor-relations/press-releases/financial-releases/press-release-details/2019/REMAX-Acquires-Data-Science-Startup-First-Continuing-the-Brands-Technological-Transformation/default.aspx">
+          press release
+        </a>
+        ).
       </li>
       <li>
         <a href="http://ranger.io">Ranger</a> - Partnered with{" "}
