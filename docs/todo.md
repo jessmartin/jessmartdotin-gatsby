@@ -1,0 +1,3 @@
+- [ ] Update Gatsby.js
+- [ ] Post link to static files
+- [ ] Set up a staging/production server on Netlify
