@@ -19,7 +19,7 @@ const IndexPage = () => (
       I work with businesses to design, develop and deploy web and mobile
       products.{" "}
       <strong>
-        <a class="hire-me" href="/hireme">
+        <a class="hire-me strikethrough" href="/hireme">
           Hire me.
         </a>
       </strong>
@@ -93,45 +93,45 @@ const IndexPage = () => (
         <a href="https://medium.com/@jessmartin/how-to-trello-your-project-81429919e6a3">
           How To Trello Your Project
         </a>
-        What to do when your todo list won’t do. May 2019.
+        &nbsp;What to do when your todo list won’t do. May 2019.
       </li>
       <li>
         <a href="https://medium.com/@jessmartin/why-you-should-use-trello-for-damn-near-everything-dca943d58fa9#.4xl8bwxmk">
           Why You Should Use Trello For Damn Near Everything
         </a>
-        No, seriously. April 2015.
+        &nbsp;No, seriously. April 2015.
       </li>
       <li>
         <a href="https://medium.com/@jessmartin/catching-my-breath-af5a7dcaf220">
           Catching My Breath
         </a>
-        After five years building a tech startup, a respite. May 2019.
+        &nbsp;After five years building a tech startup, a respite. May 2019.
       </li>
       <li>
         <a href="https://blog.first.io/life-beyond-zillow-5941c97f5081">
           Life Beyond Zillow
         </a>
-        Real estate and the return of the relationship. December 2016.
+        &nbsp;Real estate and the return of the relationship. December 2016.
       </li>
       <li>
         <a href="https://blog.first.io/the-irrefutable-math-of-relational-marketing-6ba7784504e4">
           The Irrefutable Math of Relational Marketing
         </a>
-        The easiest way to grow your business is to talk to people that you
-        already know. October 2016.
+        &nbsp;The easiest way to grow your business is to talk to people that
+        you already know. October 2016.
       </li>
       <li>
         <a href="https://medium.com/@jessmartin/the-real-raise-amount-92e3bc33a3c1">
           The Real Raise Amount
         </a>
-        Fundraising reflections from raising a seed round and Series A. May
-        2015.
+        &nbsp;Fundraising reflections from raising a seed round and Series A.
+        May 2015.
       </li>
       <li>
         <a href="https://github.com/jessmartin/writings/raw/master/pcg_paper/generative.pdf">
           Generating graphical content using grammars and graphs
         </a>
-        Graduate Thesis, UNC-Chapel Hill. May 2007.
+        &nbsp;Graduate Thesis, UNC-Chapel Hill. May 2007.
       </li>
     </ul>
 
