@@ -21,8 +21,8 @@ This is where Jess stores his ramblings, his rants, and his radical project work
 
     The site is now running at `http://localhost:8000`!
 
-    _Note: You'll also see a second link: _`http://localhost:8000/___graphql`\_. This is a tool you can use to experiment with querying your data.
+    \_Note: You'll also see a second link: `http://localhost:8000/___graphql`. This is a tool you can use to experiment with querying your data.\_
 
 ## 💫 Deployment
 
-[![Deployed to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://jessmartdotin.netlify.app/)
+Website hosted at [Netlify](https://jessmartdotin.netlify.app/)
