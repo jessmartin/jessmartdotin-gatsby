@@ -10,7 +10,7 @@
 - [x] Migrate Google Analytics to the new site
 - [x] Investigate the `seo.js` file and see how we can optimize for SEO
 - [x] Experiment with making favicon circular (consistent background color)
-- [ ] Ensure the site looks great on mobile
+- [x] Ensure the site looks great on mobile - it's better, not great
 - [ ] Articles section and move those locally from Medium
 
 - [ ] Point DNS for jessmart.in to Netlify
