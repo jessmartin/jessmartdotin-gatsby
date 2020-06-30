@@ -8,8 +8,8 @@
 - [x] New favicon
 - [x] Fix up the README.md
 
-- [ ] Migrate Google Analytics to the new site
-- [ ] Investigate the `seo.js` file and see how we can optimize for SEO
+- [x] Migrate Google Analytics to the new site
+- [x] Investigate the `seo.js` file and see how we can optimize for SEO
 - [ ] Point DNS for jessmart.in to Netlify
 - [ ] GO LIVE!
 
