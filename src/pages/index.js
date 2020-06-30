@@ -17,12 +17,7 @@ const IndexPage = () => (
     <h3>Building a product?</h3>
     <p>
       I work with businesses to design, develop and deploy web and mobile
-      products.{" "}
-      <strong>
-        <a class="hire-me strikethrough" href="">
-          Hire me.
-        </a>
-      </strong>
+      products.
     </p>
 
     <h3>Work</h3>
