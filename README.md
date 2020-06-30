@@ -25,4 +25,4 @@ This is where Jess stores his ramblings, his rants, and his radical project work
 
 ## 💫 Deployment
 
-Website hosted at [Netlify](https://jessmartdotin.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/75cfb670-1e91-4469-80aa-53232e79fdec/deploy-status)](https://app.netlify.com/sites/jessmartdotin/deploys)
