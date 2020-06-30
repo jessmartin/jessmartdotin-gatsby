@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://jessmart.in">
+  <a href="http://jessmart.in">
     <img alt="Gatsby" src="https://raw.githubusercontent.com/jessmartin/jessmartdotin-gatsby/master/src/images/jm-logo-circle.png" width="60" />
   </a>
 </p>
