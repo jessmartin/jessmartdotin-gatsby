@@ -6,6 +6,8 @@ title: "Realtime Collaborative Systems"
 
 # Realtime Collaborative Systems
 
+_Thoughts on collaborative systems as they exist and where they might be going._
+
 ## Why Realtime Collaboration?
 
 I believe systems that allow humans to collaborate on work products in realtime are of critical importance in tackling the complexity inherent in the world of work.

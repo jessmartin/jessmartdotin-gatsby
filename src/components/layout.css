@@ -131,6 +131,7 @@ h4 {
   font-weight: 600;
 }
 
+.article h1,
 h2,
 h3 {
   text-shadow: 1px 1px 1px #d7d7d7;
@@ -184,6 +185,9 @@ a:hover {
 strong {
   font-weight: bold;
 }
+.small {
+  font-size: 1.2em;
+}
 
 /* Structure */
 #content,
@@ -203,8 +207,18 @@ header {
   background-color: #e7e7e7;
 }
 header h1 {
+  color: #333;
+}
+header h1 a {
   text-shadow: 4px 3px rgba(0, 0, 0, 0.43);
   color: #333;
+  transition: text-shadow 400ms ease-in-out, color 400ms ease-in-out;
+}
+header h1 a:hover {
+  text-decoration: none;
+  color: #666;
+  text-shadow: 4px 3px rgba(0, 0, 0, 0.3);
+  transition: text-shadow 100ms ease-in-out, color 100ms ease-in-out;
 }
 
 /* Tight header for subpages */
@@ -425,6 +439,23 @@ div.lets-talk a.book-me-link span.on-ohours {
   display: none;
 }
 
+/* Articles */
+.article h1 {
+  font-size: 4em;
+  letter-spacing: 0;
+  text-decoration: underline;
+}
+
+.article-warning {
+  border: 2px solid #c7c7c7;
+  padding: 10px 20px;
+  background-color: #faeee7;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+.article-warning p {
+  margin-bottom: 0;
+}
 /* Footer */
 footer {
   text-align: center;
