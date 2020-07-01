@@ -1,0 +1,73 @@
+---
+slug: "/articles/realtime-collaborative-systems"
+date: "2020-06-01"
+title: "Realtime Collaborative Systems"
+---
+
+# Realtime Collaborative Systems
+
+_Thoughts on collaborative systems as they exist and where they might be going._
+
+## Why Realtime Collaboration?
+
+I believe systems that allow humans to collaborate on work products in realtime are of critical importance in tackling the complexity inherent in the world of work.
+Furthermore, I believe realtime collaborative work to be one of the greatest joys in life, and the creation of systems that support fruitful realtime collaborative experiences to be a valuable end unto itself.
+
+## What Realtime Collaboration mean?
+
+**Realtime** - systems that are "realtime" allow the user to interact a synchronous fashion, where both parties are interacting, perhaps not equally, with the work and moving it to completion. This is contrasted with "asynchronous" systems that do support collaboration, but the individuals working are working at different times, more like a turn-based board game.
+
+**Collaborative** - systems that allow humans to interact with one another in a collaborative fashion, bringing together their individual skills and knowledge to work together.
+
+**System** - a system refers to any means, technological, digital, analog or otherwise, that facilitates realtime, collaborative work between humans.
+
+## What about Asynchronous Collaboration?
+
+Asynchronous collaboration systems are incredibly important! There are use cases for realtime collaboration and there are use cases for asynchronous collaboration. It seems to me that much of our product development over the past decades has gone into asynchronous collaboration systems and they've gotten pretty good.
+From project management tools (systems like Kanban) to Git (distributed version control systems), humans have built some incredible systems for asynchronous collaboration and they've driven massive technological improvements.
+Tremendous potential for improvement still exists in the area of asynchronous collaboration, but I think the largest gaps exist in our ability to effectively collaborate in realtime.
+
+## What about Knowledge Representation?
+
+A critical component of _any_ collaboration system is the way knowledge is represented in that system. We have some domains with very advanced knowledge representations; source code and 3D models come to mind. We have other domains where knowledge representation that is still quite rudimentary.[1]
+In order to effectively build systems for collaboration, the issue of how to represent knowledge effectively in such a way that it can be interacted with reliably will have to be tackled as well.
+I would argue that knowledge representation is largely domain-specific and therefore will best be tackled "bottom up" by starting with a motivating problem.
+
+## Examples
+
+Interestingly, perhaps the most powerful realtime collaboration systems of all time is that of human language. The invention of language allowed for humans to collaborate, share representations of knowledge,
+Conversely, the most powerful asynchronous collaboration systems is perhaps written language.
+
+### Gold standard: The Whiteboard
+
+- Pair programming
+- Figma
+- Google Docs
+- Trello (can be used this way)
+- Google Sheets
+- Phone Calls
+- Video
+- Teleconferencing
+- Chat
+
+## Digital versus Analog
+
+By and large, current collaboration systems tend to be either purely analog or purely digital. Our digital tools often act as only a physical "window" into a digital space. This does a massive disservice to our _bodies_ and the realization that our _embodied_ nature.
+There is tremendous opportunity in bridging the digital and analog worlds, combining the best of our bodies and minds into unified systems.
+More to say here.
+
+**References:**
+
+- [Dynamicland](https://dynamicland.org/)
+- [Office of the Future - UNC Chapel Hill](https://www.cs.unc.edu/Research/stc/)
+- See [Andrei State's Technical Artwork](https://www.cs.unc.edu/~andrei/artagrafica/technical.htm)
+
+## Distributed vs In-person Collaboration
+
+The needs of our modern world make building systems for real-time collaboration more important than ever.
+
+## An Idea
+
+Maybe a 3D virtual space crafted for realtime collaboration makes sense after all.
+
+[1] One knowledge representation regularly bugs me is the "cooking recipe" - the state of the art is still a 3x5 index card with ingredients and steps. So much room for improvement!
