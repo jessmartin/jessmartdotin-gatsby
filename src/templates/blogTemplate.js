@@ -1,5 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
+import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -14,9 +15,10 @@ export default function Template({ data }) {
         <div className="article">
           <div className="article-warning">
             <p>
-              <strong>⚠️ Warning!</strong> This note is an in-progress note
-              exported raw from Jess's note-taking system. The ideas in this
-              note are still under active development.
+              <strong>⚠️ Warning!</strong> This is an in-progress research note
+              exported directly from{" "}
+              <Link to="/articles">Jess's note-taking system</Link>. The ideas
+              in this note are still under active development.
             </p>
           </div>
           <p class="small">
