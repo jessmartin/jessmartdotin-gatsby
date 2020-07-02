@@ -17,6 +17,14 @@ const ArticlesPage = ({
   return (
     <Layout>
       <SEO title="Jess Martin - Articles" />
+      <div className="article-warning">
+        <p>
+          <strong>⚠️ Warning!</strong> These are in-progress research notes
+          exported directly from Jess's research notebook. The ideas contained
+          in these notes are still under active development.
+        </p>
+      </div>
+
       <h2>Research Notebook</h2>
 
       <p>
