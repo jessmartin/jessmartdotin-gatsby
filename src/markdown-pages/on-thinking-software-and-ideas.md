@@ -1,0 +1,36 @@
+---
+slug: "articles/on-thinking-software-and-ideas"
+date: 2020-07-02
+title: On Thinking, Software, and Ideas
+---
+
+# On Thinking, Software, and Ideas
+
+[image:1617C561-A611-4B6E-9E2E-8E5136D43BEF-429-0000010E2D063404/89DD28C6-E3DB-400A-8EC7-1A3957FA0872.png]
+
+I'm approaching 40, and in that process of reviewing milestones of my life, I've been reflecting on my career and my life and my contributions and wondering what comes of it.
+
+One big idea that dominates the other thoughts is the thought of how we learn, how we craft thoughts and ideas into physical things that we bring into the world. I consider myself a maker first and a thinker second, but how I think influences what I make, and so I've been forced to think more deeply about the things that I make. What ideas influence me? Is my thinking clear? How am I shaping the world and why? What ideas can I in turn shape that will actually mold what makers make for many years from now?
+
+I've been at the software game, professionally, for about 18 years. As I move into the second half of my career, I'm thinking about what I should focus on. And increasingly I'm thinking about big ideas that span the fields of software development, human potential, futurism, and tool-building.
+
+Technology is merely a tool.
+
+> In a word, the computer scientist is a toolsmith—no more, but no less. It is an honorable calling.
+
+[image:073C863D-E7A5-4C97-9EC8-B104EF3862A1-429-0000032E306EAC7E/2B41C771-DFDF-455E-9B9C-582EE30317D1.png]
+
+> That swordsmith is successful whose clients die of old age.
+
+## Thinking Thoughts That Bend The Arc of the Universe
+
+What are the big thoughts in my mind?
+
+- Integrate the analog and the digital
+- We need more screens and information radiators in our physical spaces
+- Knowledge Management Systems
+    - Reading
+    - Writing
+    - Publishing
+    - Bookmarking
+    - Personal systems for managing knowledge
