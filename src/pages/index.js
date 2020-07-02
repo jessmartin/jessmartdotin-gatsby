@@ -87,7 +87,15 @@ const IndexPage = () => (
     </ul>
 
     <h3>Writings</h3>
-    <p>A collection of writings across various subjects.</p>
+    <p>
+      <strong>
+        <Link to="/articles">Research Notebook</Link>
+      </strong>{" "}
+      - a collection of research notes exported directly from Jess's research
+      notebooks.
+    </p>
+
+    <p>A collection of articles across various subjects.</p>
     <ul>
       <li>
         <a href="https://medium.com/@jessmartin/how-to-trello-your-project-81429919e6a3">
