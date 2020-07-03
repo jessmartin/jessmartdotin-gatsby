@@ -1,0 +1,82 @@
+---
+title: Reflections on Think Week 2020
+slug: "articles/think-week-2020-reflections"
+date: 2020-07-03
+---
+
+# Reflections on Think Week 2020
+
+This past week I received an incredible gift: a week's vacation from Lambda School, when I'd just _taken_ a week-long family vacation just a few weeks earlier. What to do with this unexpected gift of time?
+
+## Think Week
+
+I've always been enchanted by Bill Gates' practice of taking a Think Week to read, write, ideate and thing _big_ thoughts. I decided to model my time on a Think Week, a week to think big thoughts, and I asked myself a few questions:
+
+- What should I read?
+- What should I write about?
+- Who should I talk to?
+- What should I build?
+- What should I publish?
+
+## A Career Checkin
+
+I started building and maintaining websites when I was 14 years old. I got my first paid developer job when I was 20. I've been working in software development, mostly web and mobile, ever since. I'm 38 now. Depending on how you measure, I'm about halfway through my career. It seems like a good time to reflect on the last twenty years and reflect on what I want to be doing for the next twenty.
+
+## Toolsmith and Educator
+
+When I look back at my career, I see two consistent themes: I build tools and I educate others.
+
+### Toolsmith
+
+I'll never forget my first week as a graduate student at UNC-Chapel Hill. A bunch of bright-eyed graduate students crowded into a rickety classroom in Sitterson Hall, milling about with that energetic nervousness of the newly initiated. [Dr. Fred Brooks](s), the founder of the computer science department, stood and delivered a welcoming talk entitled "The Computer Scientist as Toolsmith."[1] In it, he said a quote that stuck with me "computer science is the handmaiden of the sciences."[2] We are toolmakers, Fred opined, and very little of what we do can actually be called "science" in the sense of _discovering_ facts and universal laws. We _make_ things in service of others. Computer scientists are toolsmiths.
+
+This bestowed identity as a maker of tools has stayed with me. It helped sculpt me as a "product thinker." It ultimately made me a terrible consultant (or a great one, depending on how you view it!), as I continually challenged my employer about what they were asking me to build and why. It shaped my view of software I wrote as tools that could be repurposed and shared with others. It gave me an appreciation for "keeping my tools sharp."
+
+### Educator
+
+You don't have to spend much time around me before I go wandering off on a tangent, explaining the key ideas in some book I'm reading. When asked a question, I often back up two steps and give the context for the answer before simply answering the question.
+
+It's infuriating, really. And it requires a conscious effort to turn it off. My natural bent is to learn and share knowledge with others.
+
+Both my parents are public school teachers. I went to graduate school for computer science to become a professor and teach. It was only after I left graduate school to join a startup that I realized that "teaching" was just as important in industry as it was inside the walls of Academia.
+
+## What to build? What to teach?
+
+I'm a toolsmith and an educator. But in terms of "thinking big thoughts about the future", my identity still begs two questions:
+
+- What tools needs to be built?
+- What should I teach?
+
+### Tools for a Better Tomorrow
+
+I'm blessed to have grown up with this "bicycle for the mind." When I was growing up, my parents owned and operated a daycare. We lived on the second story, above the daycare. My parents realized early that computers were going to be important in education, so they bought computers for the daycare: two Apple IIc's, an Apple IIe, and a 4-color Apple IIgs. I learned how to read on a computer, playing Reader Rabbit on a 5 and a 1/4 inch floppy disk. When the internet started to spread, my parents bought a 2600 baud modem and I had access to BBSs and Gopher on our Performa 575. I camped out for hours at the school's computer lab to download the Netscape 0.9.6 beta.
+
+Computing devices have extended my capabilities in the world. I've experimented the evolution of the desktop operating system, the web browser, and now mobile interfaces. What's next? What are the tools of the future that will radically extend humanity's capabilities?
+
+The first twenty years of my career have been ruthlessly practical about my tools: what tool allows me to most productively prototype and build products for end users?
+
+Over the next twenty years, I want to build tools that extend the core capabilities and interfaces of the computing devices themselves. That may take many forms, but one area I'm actively exploring right now is [realtime collaborative systems](https://jessmart.in/articles/realtime-collaborative-systems).
+
+### Teach What You Know
+
+I'm a zero-to-one engineer.
+
+I've built dozens of products from the first line of code to first contact with users. Some of those products have even grown into companies that have been acquired and are still in service today.
+
+What I've focused on is how to be an engineer in the critical first 20% of a project. I don't know how good I am at it, but I do know I love doing it. And I don't want to stop.
+
+There are a lot of lessons that are unique to the zero-to-one phase. How to wear many hats. When to take on technical debt. What you need to "get right" from the beginning. Setting your team's culture. How to understand user's needs. How to measure success.
+
+A mentor of mine likes to say "you can't take someone down a path you yourself haven't walked." Zero-to-one is the path I have trodden, and it's where I'd like to show others the way.
+
+## Think Week, Recollected
+
+So that's it. I'm a toolsmith and an educator who is working on building the future of computing while mentoring the next generation of toolsmiths.
+
+I hope you'll join me!
+
+**Notes**
+
+[1] For an expansion of Brooks' thoughts on the subject, see his essay
+
+[2] Interestingly, there is a longer history behind that quote. It was originally said of _Mathematics_. One might reflect on the ways in which mathematics and computer science are similar. After all, computer science departments across the country grew out of two different departments: math and engineering.
