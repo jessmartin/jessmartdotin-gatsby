@@ -13,8 +13,8 @@
 - [x] Ensure the site looks great on mobile - it's better, not great
 - [ ] Articles section and move those locally from Medium
 
-- [ ] Point DNS for jessmart.in to Netlify
-- [ ] GO LIVE!
+- [x] Point DNS for jessmart.in to Netlify
+- [x] GO LIVE!
 
 - [ ] Fun logo
 - [ ] Post a signup form for Newsletter
