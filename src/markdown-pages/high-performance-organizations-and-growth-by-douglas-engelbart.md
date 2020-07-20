@@ -1,19 +1,16 @@
 ---
 slug: "articles/high-performance-organizations-and-growth-by-douglas-engelbart"
-date: 2020-07-02
+date: 2020-07-20
 title: High-Performance Organizations and Growth by Douglas Engelbart
 ---
-# High-Performance Organizations and Growth by Douglas Engelbart
+# Douglas Engelbart - High-Performance Organizations and Growth
+Doug's digital footprint is rather large and spans 50 years. You can begin by reading his [papers](https://www.dougengelbart.org/content/view/164/126/), from his original proposals from the 1960s to summaries from the 2000s. You can watch [videos](https://archive.org/details/dougengelbartarchives?&sort=-downloads&page=2) of his talks from the ["mother of all demos"](http://www.dougengelbart.org/firsts/dougs-1968-demo.html) in 1968 to a [2008 tribute at Stanford](https://archive.org/details/StanfordNews2008TributeEngelbart).
 
-<iframe id="ytplayer" type="text/html" width="640" height="360"
-  src="https://www.youtube.com/embed/sQzznHqFrYg?autoplay=1&origin=https://jessmart.in"
-  frameborder="0"></iframe>
-Talk: [YouTube](https://www.youtube.com/watch?v=sQzznHqFrYg)
+## Big Ideas
+In this section, I'll try to summarize the big ideas gleaned from Engelbart.
 
-There were lots of interesting ideas in this talk. I'll cover a few of them below.
-
-## C Activities
-[image:B07A7F90-54F8-4BF1-AF6E-A7EB02C2E7EF-827-000038EBC4C4B00A/132803_01.jpg]
+### C Activities
+![ABCs of Organizational Improvement](https://www.dougengelbart.org/images/pubs/papers/augment-132803/132803_01.jpg)
 From http://dougengelbart.org/images/pubs/papers/augment-132803/132803_01.jpg
 
 - **A Activities** are the core activities of the business. For Lambda School, that would be teaching classes, sourcing jobs for students, admissions, etc.
@@ -22,6 +19,24 @@ From http://dougengelbart.org/images/pubs/papers/augment-132803/132803_01.jpg
 
 When I engage in "meta-work", it's often "C Activity" work. Also, building a framework like [RedwoodJS](https://redwoodjs.com) or [Croquet](https://croquet.io) is very much "C Activity".
 
-References:
+## References
+### Papers
+Of all of his papers, the two that have been most recommended to me are:
+
+- The most famous report is a longer [Augmenting Human Intellect: A Conceptual Framework](http://worrydream.com/refs/Engelbart%20-%20Augmenting%20Human%20Intellect.pdf) from October 1962.
+	- A useful reference while reading this paper may be [Field Guide to Doug's 1962 Framework Report](https://www.dougengelbart.org/content/view/380).
+- A summary of his framework, 40 years later, called [Improving Our Ability to Improve: A Call for Investment in a New Future](http://worrydream.com/refs/Engelbart%20-%20Improving%20Our%20Ability%20to%20Improve.pdf) from September 2003.
+
+### Video - Improving How We Improve - Doug Engelbart at Groupware '92
+
+<iframe id="ytplayer" type="text/html" width="640" height="360"
+  src="https://www.youtube.com/embed/sQzznHqFrYg?autoplay=1&origin=https://jessmart.in"
+  frameborder="0"></iframe>
+
+Talk: [YouTube](https://www.youtube.com/watch?v=sQzznHqFrYg)
+
+Lots of interesting ideas in this talk. May need to watch it a few more times in order to really get it. Need to document more.
+
+Other References:
 - Broad Overview: https://www.dougengelbart.org/content/view/248/260/
 - Summary: https://www.dougengelbart.org/content/view/115/000/
