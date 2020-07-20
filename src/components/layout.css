@@ -446,6 +446,10 @@ div.lets-talk a.book-me-link span.on-ohours {
   text-decoration: underline;
 }
 
+.article img {
+  width: 100%; /* constrain images within container */
+}
+
 .article-warning {
   border: 2px solid #c7c7c7;
   padding: 10px 20px;
