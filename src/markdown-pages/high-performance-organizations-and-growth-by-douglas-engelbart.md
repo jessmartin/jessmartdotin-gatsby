@@ -4,6 +4,10 @@ date: 2020-07-02
 title: High-Performance Organizations and Growth by Douglas Engelbart
 ---
 # High-Performance Organizations and Growth by Douglas Engelbart
+
+<iframe id="ytplayer" type="text/html" width="640" height="360"
+  src="https://www.youtube.com/embed/sQzznHqFrYg?autoplay=1&origin=https://jessmart.in"
+  frameborder="0"></iframe>
 Talk: [YouTube](https://www.youtube.com/watch?v=sQzznHqFrYg)
 
 There were lots of interesting ideas in this talk. I'll cover a few of them below.
