@@ -21,7 +21,7 @@ This is where Jess stores his ramblings, his rants, and his radical project work
 
     The site is now running at `http://localhost:8000`!
 
-    \_Note: You'll also see a second link: `http://localhost:8000/___graphql`. This is a tool you can use to experiment with querying your data.\_
+    _Note: This also starts up a GraphQL browser at `http://localhost:8000/___graphql`. This is a tool to experiment with querying the data._
 
 ## 💫 Deployment
 
