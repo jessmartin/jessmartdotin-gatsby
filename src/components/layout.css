@@ -148,16 +148,23 @@ p {
 p + ul {
   margin-top: -1.4em;
 }
-
-ul {
+main > ul,
+div > ul {
   margin-bottom: 1.6em;
+}
+main > ul > li,
+div > ul > li {
+  font-size: 1.6em;
 }
 ul li {
   list-style-type: disc;
-  font-size: 1.6em;
   margin-left: 25px;
   padding-bottom: 5px;
   line-height: 1.6em;
+}
+ul > li > p {
+  font-size: inherit;
+  padding-bottom: 10px;
 }
 ul li a {
   font-weight: 500;
