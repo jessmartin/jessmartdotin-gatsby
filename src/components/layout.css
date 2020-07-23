@@ -162,6 +162,16 @@ ul li {
   padding-bottom: 5px;
   line-height: 1.6em;
 }
+li.task-list-item {
+  list-style-type: none;
+}
+li.task-list-item > input,
+li.task-list-item > p {
+  margin-left: -25px;
+}
+li.task-list-item input[type="checkbox"] {
+  margin-right: 8px;
+}
 ul > li > p {
   font-size: inherit;
   padding-bottom: 10px;
