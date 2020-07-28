@@ -67,6 +67,12 @@ const AboutPage = () => (
       <li>React Native for mobile apps</li>
     </ul>
 
+    <h2>Get to Know Me</h2>
+    <p>
+      If you want to get to know me a little better, I wrote a{" "}
+      <a href="/user-guide">User Guide to Working With Jess</a> where you can
+      learn a bit about what makes me tick.
+    </p>
     <p>Contact me at jessmartin at gmail dot com.</p>
   </Layout>
 )
