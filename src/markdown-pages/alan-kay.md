@@ -1,6 +1,6 @@
 ---
 slug: "articles/learning-from-alan-kay"
-date: 2020-07-23
+date: 2020-07-28
 title: Learning From Alan Kay
 ---
 # Learning from Alan Kay
