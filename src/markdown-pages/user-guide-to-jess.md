@@ -148,4 +148,4 @@ I'd like to teach people about the intersection of software engineering, product
 - I may start a small startup to build learning platforms or tools for learning (a la Egghead.io or Twitch.tv)
 - I may work on foundational computing research, driving forward the "state of the art" in how humans and computers work together, a la [Bret Victor](http://worrydream.com).
 
-The important thing is I want to continue to be at [the intersection of Education and Technology](https://jessmart.in/articles/think-week-2020-reflections), with increasing autonomy to blaze a new trail.
+The important thing is I want to continue to be at [the intersection of Education and Technology](/articles/think-week-2020-reflections), with increasing autonomy to blaze a new trail.
