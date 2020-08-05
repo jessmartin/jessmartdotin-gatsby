@@ -13,14 +13,16 @@ export default function Template({ data }) {
       <SEO title={frontmatter.title} />
       <div className="article-container">
         <div className="article">
-          <div className="article-warning">
-            <p>
-              <strong>⚠️ Warning!</strong> This is an in-progress research note
-              exported directly from{" "}
-              <Link to="/articles">Jess's note-taking system</Link>. The ideas
-              in this note are still under active development.
-            </p>
-          </div>
+          {frontmatter.pageType == "research-note" && (
+            <div className="article-warning">
+              <p>
+                <strong>⚠️ Warning!</strong> This is an in-progress research
+                note exported directly from{" "}
+                <Link to="/articles">Jess's note-taking system</Link>. The ideas
+                in this note are still under active development.
+              </p>
+            </div>
+          )}
           <p class="small">
             <i>Last Updated: {frontmatter.date}</i>
           </p>
@@ -42,6 +44,7 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         slug
         title
+        pageType
       }
     }
   }
