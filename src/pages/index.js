@@ -89,7 +89,7 @@ const IndexPage = () => (
     <h3>Writings</h3>
     <p>
       <strong>
-        <Link to="/articles">Research Notebook</Link>
+        <Link to="/notes">Research Notebook</Link>
       </strong>{" "}
       - a collection of research notes exported directly from Jess's research
       notebooks.

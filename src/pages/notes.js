@@ -1,17 +1,17 @@
 import React from "react"
 import { graphql } from "gatsby"
 
-import ArticleLink from "../components/article-link"
+import NoteLink from "../components/note-link"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-const ArticlesPage = ({
+const NotesPage = ({
   data: {
     allMarkdownRemark: { edges },
   },
 }) => {
-  const Articles = edges.map(edge => (
-    <ArticleLink key={edge.node.id} post={edge.node} />
+  const Notes = edges.map(edge => (
+    <NoteLink key={edge.node.id} post={edge.node} />
   ))
 
   return (
@@ -34,16 +34,17 @@ const ArticlesPage = ({
       </p>
 
       <h3>Notes</h3>
-      <ul>{Articles}</ul>
+      <ul>{Notes}</ul>
     </Layout>
   )
 }
 
-export default ArticlesPage
+export default NotesPage
 
+// prettier-ignore
 export const pageQuery = graphql`
   query {
-    allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
+    allMarkdownRemark( filter: { frontmatter: { pageType: { eq: "research-note" } } }, sort: { order: DESC, fields: [frontmatter___date] }) {
       edges {
         node {
           id
@@ -52,6 +53,7 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             slug
             title
+            pageType
           }
         }
       }
