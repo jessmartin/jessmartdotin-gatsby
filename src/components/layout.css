@@ -145,22 +145,31 @@ p {
   line-height: 1.7em;
 }
 
-p + ul {
+p + ul,
+p + ol {
   margin-top: -1.4em;
 }
 main > ul,
-div > ul {
+div > ul,
+main > ol,
+div > ol {
   margin-bottom: 1.6em;
 }
+main > ol > li,
+div > ol > li,
 main > ul > li,
 div > ul > li {
   font-size: 1.6em;
 }
+ol li,
 ul li {
   list-style-type: disc;
   margin-left: 25px;
   padding-bottom: 5px;
   line-height: 1.6em;
+}
+ol li {
+  list-style-type: decimal;
 }
 li.task-list-item {
   list-style-type: none;
