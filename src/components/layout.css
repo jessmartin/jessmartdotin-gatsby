@@ -100,6 +100,13 @@ blockquote,
 q {
   quotes: "" "";
 }
+blockquote p {
+  border-left: 5px #d7d7d7 solid;
+  padding: 10px;
+  padding-left: 15px;
+  margin-left: -20px;
+  background-color: #eee;
+}
 /* General Styles */
 html {
   margin: 0;
