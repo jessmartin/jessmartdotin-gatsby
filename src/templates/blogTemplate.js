@@ -18,7 +18,7 @@ export default function Template({ data }) {
               <p>
                 <strong>⚠️ Warning!</strong> This is an in-progress research
                 note exported directly from{" "}
-                <Link to="/articles">Jess's note-taking system</Link>. The ideas
+                <Link to="/notes">Jess's note-taking system</Link>. The ideas
                 in this note are still under active development.
               </p>
             </div>
