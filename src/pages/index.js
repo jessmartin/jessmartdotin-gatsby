@@ -28,16 +28,12 @@ const IndexPage = ({
     <p>This is where I <a href="#writings">write</a>, <a href="#talks">speak</a>, and create the future of computing.</p>
 
     <section>
-      <h3>Research Notebook</h3>
-      <p>A collection of research notes exported directly from Jess's research
-      notebooks.</p>
-
-      <p>Recently Updated Notes</p>
+      <h3>Recent</h3>
       <ul>{RecentNotes}</ul>
     </section>
 
-    <section>
-      <h3>Now</h3>
+    <h3>Work</h3>
+    <h4>Current</h4>
       <ul>
         <li>I <strong>livestream</strong> my adventures in programming on YouTube via <a href="https://www.youtube.com/user/jessamartin">Coding With Jess</a>.
         </li>
@@ -45,10 +41,6 @@ const IndexPage = ({
         <li>My current <strong>research interests</strong> are <a href="/notes/0581F68D-2A5F-4851-A617-A9FBD3592636-827-0000351A69320E9E">Realtime Collaboration Systems</a>, the impact of rich <a href="/notes/AE1554A0-EC67-4063-911D-334B8BEB0085-1675-0000E70184C1E679">Knowledge Representations</a>, and inventing new <a href="/notes/20E186CF-BDF2-4143-8B94-69ECABD3E7B0-951-000059BBE372F180">Tools for Thinking</a>.</li>
         <li>I design and deliver educational experiences to <strong>teach software engineering</strong> at scale at <a href="https://lambdaschool.com/">Lambda School</a>.</li> 
       </ul>
-    </section>
-
-    <h3>Work</h3>
-    <p>A collection of businesses I've built and projects I've worked on.</p>
     <h4>Startups</h4>
     <ul>
       <li>
@@ -274,6 +266,8 @@ export const pageQuery = graphql`
           frontmatter {
             title
             date(formatString: "MMMM DD, YYYY")
+            slug
+            pageType
           }
         }
       }
