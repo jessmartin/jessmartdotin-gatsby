@@ -11,14 +11,11 @@ const IndexPage = () => (
     <div class="portrait">
       <Image />
     </div>
-    <h2 class="left-title">Hi.</h2>
-    <p>I'm Jess Martin. I bring web products to market.</p>
+    <h2 class="left-title">Welcome.</h2>
 
-    <h3>Building a product?</h3>
-    <p>
-      I work with businesses to design, develop and deploy web and mobile
-      products.
-    </p>
+    <p>I'm Jess Martin.</p>
+
+    <p>This is where I <a href="#writings">write</a>, <a href="#talks">speak</a>, and create the future of computing.</p>
 
     <h3>Work</h3>
     <p>A collection of businesses I've built and projects I've worked on.</p>
@@ -86,7 +83,7 @@ const IndexPage = () => (
       <li class="hide">Procedural House Generation</li>
     </ul>
 
-    <h3>Writings</h3>
+    <h3 id="writings">Writings</h3>
     <p>
       <strong>
         <Link to="/notes">Research Notebook</Link>
@@ -143,7 +140,7 @@ const IndexPage = () => (
       </li>
     </ul>
 
-    <h3>Talks</h3>
+    <h3 id="talks">Talks</h3>
     <p>Talks I've given in various venues.</p>
     <ul>
       <li>
