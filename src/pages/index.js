@@ -4,8 +4,18 @@ import { Link } from "gatsby"
 import Layout from "../components/layout"
 import Image from "../components/image"
 import SEO from "../components/seo"
+import NoteLink from "../components/note-link"
 
-const IndexPage = () => (
+const IndexPage = ({
+  data: {
+    allMarkdownRemark: {edges},
+  },
+}) => {
+  const RecentNotes = edges.map(edge => (
+    <NoteLink key={edge.node.id} post={edge.node} />
+  ))
+  
+  return (
   <Layout>
     <SEO title="Jess Martin" />
     <div class="portrait">
@@ -18,27 +28,12 @@ const IndexPage = () => (
     <p>This is where I <a href="#writings">write</a>, <a href="#talks">speak</a>, and create the future of computing.</p>
 
     <section>
-      <h3>Recent</h3>
-      <ul>
-        <li>NOTE:&nbsp;
-          <a href="/notes/20E186CF-BDF2-4143-8B94-69ECABD3E7B0-951-000059BBE372F180">
-            How can we develop transformative tools for thought?
-          </a>
-          <span class="updated">September 25, 2020</span>
-        </li>
-        <li>NOTE:&nbsp;
-          <a href="/notes/CF54B975-94E1-4244-9EE7-9D3890FA8C96-4272-0006761CAB8A1FA6">
-            Reinventing the Book
-          </a> 
-          <span class="updated">September 25, 2020</span>
-        </li>
-        <li>VIDEO:&nbsp;
-          <a href="https://www.youtube.com/watch?v=KgPbX-FjwyM&feature=youtu.be">
-            Coding with Jess EP19: Writing Workflow, Part 4 
-          </a>
-          <span class="updated">August 20, 2020</span>
-        </li>
-      </ul>
+      <h3>Research Notebook</h3>
+      <p>A collection of research notes exported directly from Jess's research
+      notebooks.</p>
+
+      <p>Recently Updated Notes</p>
+      <ul>{RecentNotes}</ul>
     </section>
 
     <section>
@@ -264,7 +259,24 @@ const IndexPage = () => (
     <p>
       I occasionally <a href="http://twitter.com/jessmartin">tweet</a>.
     </p>
-  </Layout>
-)
+  </Layout>)
+}
 
 export default IndexPage
+
+// prettier-ignore
+export const pageQuery = graphql`
+  query {
+    allMarkdownRemark(limit: 3, sort: {fields: frontmatter___date, order: DESC}) {
+      edges {
+        node {
+          id
+          frontmatter {
+            title
+            date(formatString: "MMMM DD, YYYY")
+          }
+        }
+      }
+    }
+  }
+`
