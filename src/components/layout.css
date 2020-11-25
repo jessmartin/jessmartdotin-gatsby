@@ -158,14 +158,18 @@ p + ol {
 }
 main > ul,
 div > ul,
+section > ul,
 main > ol,
-div > ol {
+div > ol,
+section > ul {
   margin-bottom: 1.6em;
 }
 main > ol > li,
 div > ol > li,
+section > ul > li,
 main > ul > li,
-div > ul > li {
+div > ul > li,
+section > ul > li {
   font-size: 1.6em;
 }
 ol li,
@@ -216,10 +220,14 @@ a:hover {
 }
 
 strong {
-  font-weight: bold;
+  font-weight: 500;
 }
 .small {
   font-size: 1.2em;
+}
+.updated {
+  color: #666;
+  padding-left: 8px;
 }
 
 /* Structure */
@@ -348,6 +356,7 @@ header h1 a:hover {
 .left-title + p {
   font-size: 1.8em;
   text-shadow: 1px 1px 1px #fff;
+  margin-bottom: 0.8em;
 }
 
 #content.office-hours {

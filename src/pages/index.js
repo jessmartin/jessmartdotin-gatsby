@@ -4,24 +4,43 @@ import { Link } from "gatsby"
 import Layout from "../components/layout"
 import Image from "../components/image"
 import SEO from "../components/seo"
+import NoteLink from "../components/note-link"
 
-const IndexPage = () => (
+const IndexPage = ({
+  data: {
+    allMarkdownRemark: {edges},
+  },
+}) => {
+  const RecentNotes = edges.map(edge => (
+    <NoteLink key={edge.node.id} post={edge.node} />
+  ))
+  
+  return (
   <Layout>
     <SEO title="Jess Martin" />
     <div class="portrait">
       <Image />
     </div>
-    <h2 class="left-title">Hi.</h2>
-    <p>I'm Jess Martin. I bring web products to market.</p>
+    <h2 class="left-title">Welcome.</h2>
 
-    <h3>Building a product?</h3>
-    <p>
-      I work with businesses to design, develop and deploy web and mobile
-      products.
-    </p>
+    <p>I'm Jess Martin.</p>
+
+    <p>This is where I <a href="#writings">write</a>, <a href="#talks">speak</a>, and create the future of computing.</p>
+
+    <section>
+      <h3>Recent</h3>
+      <ul>{RecentNotes}</ul>
+    </section>
 
     <h3>Work</h3>
-    <p>A collection of businesses I've built and projects I've worked on.</p>
+    <h4>Current</h4>
+      <ul>
+        <li>I <strong>livestream</strong> my adventures in programming on YouTube via <a href="https://www.youtube.com/user/jessamartin">Coding With Jess</a>.
+        </li>
+        <li>I <strong>publish</strong> my <a href="/notes/">research notes</a> via a home-grown <a href="https://en.wikipedia.org/wiki/Zettelkasten">Zettelkasten</a>.</li>
+        <li>My current <strong>research interests</strong> are <a href="/notes/0581F68D-2A5F-4851-A617-A9FBD3592636-827-0000351A69320E9E">Realtime Collaboration Systems</a>, the impact of rich <a href="/notes/AE1554A0-EC67-4063-911D-334B8BEB0085-1675-0000E70184C1E679">Knowledge Representations</a>, and inventing new <a href="/notes/20E186CF-BDF2-4143-8B94-69ECABD3E7B0-951-000059BBE372F180">Tools for Thinking</a>.</li>
+        <li>I design and deliver educational experiences to <strong>teach software engineering</strong> at scale at <a href="https://lambdaschool.com/">Lambda School</a>.</li> 
+      </ul>
     <h4>Startups</h4>
     <ul>
       <li>
@@ -86,7 +105,7 @@ const IndexPage = () => (
       <li class="hide">Procedural House Generation</li>
     </ul>
 
-    <h3>Writings</h3>
+    <h3 id="writings">Writings</h3>
     <p>
       <strong>
         <Link to="/notes">Research Notebook</Link>
@@ -143,7 +162,7 @@ const IndexPage = () => (
       </li>
     </ul>
 
-    <h3>Talks</h3>
+    <h3 id="talks">Talks</h3>
     <p>Talks I've given in various venues.</p>
     <ul>
       <li>
@@ -232,7 +251,26 @@ const IndexPage = () => (
     <p>
       I occasionally <a href="http://twitter.com/jessmartin">tweet</a>.
     </p>
-  </Layout>
-)
+  </Layout>)
+}
 
 export default IndexPage
+
+// prettier-ignore
+export const pageQuery = graphql`
+  query {
+    allMarkdownRemark(limit: 3, sort: {fields: frontmatter___date, order: DESC}) {
+      edges {
+        node {
+          id
+          frontmatter {
+            title
+            date(formatString: "MMMM DD, YYYY")
+            slug
+            pageType
+          }
+        }
+      }
+    }
+  }
+`
