@@ -16,7 +16,7 @@ export default function Template({ data }) {
           {frontmatter.pageType === "research-note" && (
             <div className="article-warning">
               <p>
-                <strong><span role="img" aria-label="warning sign">⚠</span> Warning!</strong> This is an in-progress research
+                <span role="img" aria-label="warning sign">⚠️</span><strong>&nbsp;Warning!</strong> This is an in-progress research
                 note exported directly from{" "}
                 <Link to="/notes">Jess's note-taking system</Link>. The ideas
                 in this note are still under active development.
