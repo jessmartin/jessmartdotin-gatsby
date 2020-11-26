@@ -19,7 +19,7 @@ const NotesPage = ({
       <SEO title="Research Notebook" />
       <div className="article-warning">
         <p>
-          <strong>⚠️ Warning!</strong> These are in-progress research notes
+          <strong><span role="img" aria-label="Warning sign">⚠️</span> Warning!</strong> These are in-progress research notes
           exported directly from Jess's research notebook. The ideas contained
           in these notes are still under active development.
         </p>
