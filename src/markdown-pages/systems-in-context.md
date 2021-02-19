@@ -9,7 +9,7 @@ pageType: article
 ![System-in-Context Diagram](../images/system-in-context.png)
 _Diagram courtesy of [Ruth Malan](https://twitter.com/ruthmalan/status/765217156644478976)_
 
-"Always design a thing by considering it in its next longer context." -Eliel Saarinen
+"Always design a thing by considering it in its next larger context." -Eliel Saarinen
 
 I've been studying this diagram to try and glean some truths from it. It seems like there's some "deep structure" here that I would do well to elaborate.
 
@@ -52,7 +52,7 @@ There are three levels of design when it comes to designing a system:
 
 We can direct our design efforts within any individual "levels", but we will be most effective when we take into account the other  levels.
 
-Thus, "always design a thing by considering it in its next longer context."
+Thus, "always design a thing by considering it in its next larger context."
 
 ---
 Related: See [Making Architecture Matter](https://www.youtube.com/watch?v=DngAZyWMGR0) - the architecture of the system isn't relevant for the user, except insofar as the system the user interacts with _is_ the system that the developer builds. Architecture matters in that a system well-architected for the developer will make it easier for them to quickly build resilient and useful software for the user, which is where the value is created.
