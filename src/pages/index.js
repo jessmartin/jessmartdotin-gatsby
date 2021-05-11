@@ -26,8 +26,8 @@ const IndexPage = ({
       <p>I'm Jess Martin.</p>
 
       <p>
-        This is where I <a href="#writings">write</a>,{" "}
-        <a href="#talks">speak</a>, and create the future of computing.
+        I <a href="#writings">write</a>, <a href="#talks">speak</a>, and{" "}
+        <a href="#work">create the future of computing</a>.
       </p>
 
       <section>
@@ -35,7 +35,7 @@ const IndexPage = ({
         <ul>{RecentNotes}</ul>
       </section>
 
-      <h3>Work</h3>
+      <h3 id="work">Work</h3>
       <h4>Current</h4>
       <ul>
         <li>
@@ -48,8 +48,7 @@ const IndexPage = ({
         </li>
         <li>
           I <strong>publish</strong> my <a href="/notes/">research notes</a> via
-          a home-grown{" "}
-          <a href="https://en.wikipedia.org/wiki/Zettelkasten">Zettelkasten</a>.
+          a home-grown note-taking system.
         </li>
         <li>
           My current <strong>research interests</strong> are{" "}
