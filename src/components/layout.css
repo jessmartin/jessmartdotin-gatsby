@@ -45,6 +45,7 @@ ol,
 ul,
 li,
 fieldset,
+figure,
 form,
 label,
 legend,
@@ -488,7 +489,13 @@ div.lets-talk a.book-me-link span.on-ohours {
 }
 
 .article img {
-  width: 100%; /* constrain images within container */
+  border-radius: 10px;
+}
+.article .gatsby-resp-image-figcaption {
+  padding-top: 5px;
+  font-size: 0.8em;
+  text-align: center;
+  color: #999;
 }
 
 .article-warning {

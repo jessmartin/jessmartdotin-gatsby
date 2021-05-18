@@ -6,8 +6,7 @@ pageType: article
 ---
 
 # On Designing a System-in-Context
-![System-in-Context Diagram](../images/system-in-context.png)
-_Diagram courtesy of [Ruth Malan](https://twitter.com/ruthmalan/status/765217156644478976)_
+![_Diagram courtesy of [Ruth Malan](https://twitter.com/ruthmalan/status/765217156644478976)_](../images/system-in-context.png)
 
 "Always design a thing by considering it in its next larger context." -Eliel Saarinen
 
