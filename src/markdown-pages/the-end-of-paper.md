@@ -1,6 +1,6 @@
 ---
 slug: "articles/remarkable"
-date: 2021-06-14
+date: 2021-05-18
 title: "The End of Paper"
 pageType: article
 ---
@@ -93,6 +93,8 @@ If you made it through my fifteen utterances of "holy smokes" in seventy-five se
 
 ### It feels like writing on paper
 
+![](../images/remarkable-full-2.jpg)
+
 As I mentioned in the video, writing on reMarkable feels extremely close to writing on paper. It's difficult to describe without experiencing it. The combination of reMarkable's marker scraping across the tablet surface produces two distinct sensations:
 
 **Texture.** reMarkable eschews the typical "hard plastic on glass" feeling of writing on an iPad with the Apple Pencil. Instead, it feels like the fine grain of a lead pencil scraping across a lightly-textured paper. The resistance is delightful. I feel more accurate with each stroke, more connected to the surface.
@@ -121,7 +123,7 @@ I expect to be carrying reMarkable everywhere for the next decade.
 
 ## A life-changing device
 
-(Picture of two paper notebooks + reMarkable)
+![From carrying two moleskines to one reMarkable.](../images/notebooks-vs-remarkable.jpg)
 
 It's exceedingly rare to buy a device that changes your life. And yet, the reMarkable has done just that. The reMarkable tablet marries the ambiance and focus of paper with the utility and integration of the digital world.
 
@@ -138,3 +140,5 @@ As they say, sometimes you don't realize how much you love something until you l
 Fortunately, I recovered the marker a few days later, much to my relief. I really do love this little notebook!
 
 I'm excited to see what the next decade holds. It feels like we've passed an important threshold: an affordable digital tablet can now recreate the experience of writing on paper. I suspect we'll find ways to further improve the writing experience, but I'm most looking forward to a deeper workflow integration between the analog and the digital.
+
+![](../images/remarkable-folio.jpg)
