@@ -292,7 +292,7 @@ export default IndexPage
 // prettier-ignore
 export const pageQuery = graphql`
   query {
-    allMarkdownRemark(limit: 3, sort: {fields: frontmatter___date, order: DESC}) {
+    allMarkdownRemark(limit: 5, sort: {fields: frontmatter___date, order: DESC}) {
       edges {
         node {
           id

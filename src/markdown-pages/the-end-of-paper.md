@@ -86,8 +86,9 @@ I say "holy smokes" way too often.
 
 The reMarkable tablet arrived one November day in the middle of me recording a [livestream](https://www.youtube.com/watch?v=SDWjvhd98DI). I decided I would unbox and document my first experience on the stream. The video speaks for itself:
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/W7hWbSxIvns?controls=0" title="reMarkable 2: First Experience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p></p>
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W7hWbSxIvns" title="reMarkable 2: First Experience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 If you made it through my fifteen utterances of "holy smokes" in seventy-five seconds, you also got to see the magic moment where I realized that this little tablet was actually going to _replace_ my paper notebook.
 
@@ -139,6 +140,6 @@ As they say, sometimes you don't realize how much you love something until you l
 
 Fortunately, I recovered the marker a few days later, much to my relief. I really do love this little notebook!
 
-I'm excited to see what the next decade holds. It feels like we've passed an important threshold: an affordable digital tablet can now recreate the experience of writing on paper. I suspect we'll find ways to further improve the writing experience, but I'm most looking forward to a deeper workflow integration between the analog and the digital.
+I'm excited to see what the next decade holds. It feels like we've passed an important threshold: **an affordable digital tablet can now recreate the experience of writing on paper.** I suspect we'll find ways to further improve the writing experience, but I'm most looking forward to a deeper workflow integration between the analog and the digital.
 
 ![](../images/remarkable-folio.jpg)
