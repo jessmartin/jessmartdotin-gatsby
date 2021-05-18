@@ -8,7 +8,7 @@ pageType: article
 
 ![My notebooks: 2006-2021](../images/all-notebooks.jpg)
 
-Over the last thirteen years, I've filled twenty-six Moleskines from cover to cover. Yet within a few minutes of laying hands on the reMarkable tablet, I knew I'd never buy another paper notebook. It's just _that good_.
+Over the last fifteen years, I've filled twenty-nine Moleskines from cover to cover. Yet within a few minutes of laying hands on the reMarkable tablet, I knew I'd never buy another paper notebook. It's just _that good_.
 
 How was I convinced to abandon a decade-old allegiance to analog in under ten minutes? Well, let's just say the reMarkable tablet is aptly named.
 
@@ -20,9 +20,9 @@ Let's jump in.
 
 ![A smattering of my notebooks laid open.](../images/notebooks-open.jpg)
 
-The first dated entry I could find from one of my paper notebooks is April 4, 2000: my eighteenth birthday. The writings began as the overwrought ramblings of a passionate high schooler. Throughout [undergrad](http://cs.trinity.edu/) and [grad school](https://cs.unc.edu/), I continued to write frequently but haphazardly, not really establishing a structured habit for my usage of paper.
+The first dated entry I could find from one of my paper notebooks is April 4, 2000: my eighteenth birthday. The writings began as the overwrought ramblings of a passionate high schooler. Throughout [undergrad](http://cs.trinity.edu/) and into [grad school](https://cs.unc.edu/), I continued to write frequently but haphazardly, not really establishing a structured habit for my usage of paper.
 
-But beginning in 2007, I got serious. I began carrying a paper notebook with me everywhere. And I mean everywhere. I started my day by cracking it open, carried it to all my meetings, lunches, church, travel, everywhere. Notebook-carrying became such a fixture of my identity that by 2010 the write-everything-down habit was hilariously caricatured by a friend in a skit: he acted out me on a date with my wife, studiously hunched over a 3 foot by 4 foot cardboard notebook, writing down every word of our romantic conversation.
+But beginning in 2006, I got serious. I was a year into grad school, it had gotten hard, and I needed new habits to carry me through. I began carrying a paper notebook with me everywhere. And I mean everywhere. I started my day by cracking it open, carried it to all my meetings, lunches, church, travel, everywhere. Notebook-carrying became such a fixture of my identity that by 2010 the write-everything-down habit was hilariously caricatured by a friend in a skit: he acted out me on a date with my wife, studiously hunched over a 3 foot by 4 foot cardboard notebook, writing down every word of our romantic conversation.
 
 ![](../images/notebook-wedding-scene.jpg)
 
@@ -50,7 +50,7 @@ In tandem with my paper note-taking practice, I iterated on my digital note-taki
 
 If you're really into organizational systems, I recorded a [livestream](livestream) where I whiteboarded my reading, writing, and note-taking systems.
 
-Today, I have over 700 notes spanning a decade, including this article, and my organizational systems continue to mature, though I've never felt quite satisfied with them.
+Today, I have over 700 notes spanning a decade, including this article, and my organizational systems continue to mature, though I've never felt quite satisfied.
 
 ## Paper and digital: Advantages
 
@@ -68,9 +68,9 @@ When it comes to paper, I have often dreamed of removing all my notebooks from
 
 **Sharing and collaboration.** I love the ease with which I can share a digital note with coworkers or migrate them to a collaborative document like Google Docs or Notion.
 
-Paper is still far too difficult to share. Even with ubiquitous smartphone cameras, wifi, and apps to quickly "scan" a document (I use the excellent [Office Lens](https://apps.apple.com/us/app/microsoft-office-lens-pdf-scan/id975925059)), it's still not as easy to share paper as it is digital text. One day I'll likely build a [DIY Book Scanner](https://diybookscanner.org/) and digitize my menagerie of moleskines.
+Paper is still far too difficult to share. Even with ubiquitous smartphone cameras, wifi, and apps to quickly "scan" a document (I use the excellent [Office Lens](https://apps.apple.com/us/app/microsoft-office-lens-pdf-scan/id975925059)), it's still not as easy to share paper as it is digital text. 
 
-**Digital workflow integration.** Digital text is incredibly flexible. For instance, I'm writing this article in Bear. When I'm finished, I'll move the text to my [blog](https://github.com/jessmartin/jessmartdotin-gatsby), add some frontmatter at the top, check it into source control, and the article will instantly appear as an HTML page on my website. That magical experience is made possible by a structured text format called Markdown. This is just one example of integration into a digital workflow. Text can be inserted, extracted, and transformed, all via simple scripts. That's simply not possible with paper.
+**Digital workflow integration.** Digital text is incredibly flexible. For instance, I'm writing this article in Bear. When I'm finished, I'll move the text to my [personal website](https://github.com/jessmartin/jessmartdotin-gatsby), add some frontmatter at the top, check it into source control, and the article will instantly appear as an HTML page on my website. That magical experience is made possible by a structured text format called Markdown. This is just one example of integration into a digital workflow. Text can be inserted, extracted, and transformed, all via simple scripts. That's simply not possible with paper.
 
 **Archival.** If my house were on fire, the first (non-living) thing I would grab would be my notebooks. I once lost a half-filled notebook, a series of notes I was taking while living in Ireland. It's still a little painful to think about. I never worry about losing my digital notes.
 
@@ -131,7 +131,7 @@ It's exceedingly rare to buy a device that changes your life. And yet, the reMar
 There's still a lot of work to do to integrate my instantly-digitized "paper" notes into a larger digital workflow. I'll address those workflows in a separate article. But here's how my life is different today:
 
 - I no longer carry around 2 (or more) notebooks - my reMarkable houses both my daily working log and personal journal in separate "notebooks." In fact, _all_ of my past notebooks are on the reMarkable as well! I can refer back to notes from months ago, long after the completed Moleskine would have been left on a shelf at home.
-- My "paper notebooks" are now (almost) immediately available digitally via reMarkable's cloud sync service. If I want to share a page or diagram, it's a simple process to grab the page via the app on my Mac.
+- My "paper notebooks" are nkow (almost) immediately available digitally via reMarkable's cloud sync service. If I want to share a page or diagram, it's a simple process to grab the page via the app on my Mac.
 - reMarkable doubles as a reading device for PDFs and has improved my reading workflow. I used to print out papers I wanted to read and haul them around. Now I have them all on my reMarkable, with full ability to highlight and annotate as I read.
 
 A few days ago, I misplaced the marker for my reMarkable. (You need an [EMR stylus](https://essentialpicks.com/emr-stylus-how-wacom-pens-work/) in order to write on a reMarkable - regular stylii don't work!) I felt a distinct feeling of loss - not being able to jot notes on my reMarkable throughout the day was almost physically painful.
