@@ -45,6 +45,7 @@ ol,
 ul,
 li,
 fieldset,
+figure,
 form,
 label,
 legend,
@@ -220,7 +221,7 @@ a:hover {
 }
 
 strong {
-  font-weight: 500;
+  font-weight: 600;
 }
 .small {
   font-size: 1.2em;
@@ -488,7 +489,31 @@ div.lets-talk a.book-me-link span.on-ohours {
 }
 
 .article img {
-  width: 100%; /* constrain images within container */
+  border-radius: 10px;
+}
+.article .gatsby-resp-image-figcaption {
+  padding-top: 5px;
+  font-size: 0.8em;
+  text-align: center;
+  color: #999;
+}
+
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 35px;
+  margin-bottom: 20px;
+  height: 0;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 .article-warning {
