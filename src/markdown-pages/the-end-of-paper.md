@@ -132,7 +132,7 @@ But many of the drawbacks of the analog notebook persist.
 
 **Bring your own workflow.** The reMarkable is a delightfully hackable device and there's a [solid community of software add-ons](https://github.com/reHackable/awesome-reMarkable) that extend the reMarkable's capabilities. But that's left as "an exercise for the writer." The built-in workflows are extremely rudimentary: effectively, it's just sync.
 
-While ehe reMarkable is an incredible piece of hardware, the software is merely serviceable. In my mind, I believe they've solved the hardest problem already. Think of it like a Tesla. The hard part is re-platforming the car. Well, my notes are now re-platformed. Everything else is just a software update.
+While the reMarkable is an incredible piece of hardware, the software is merely serviceable. In my mind, I believe they've solved the hardest problem already. Think of it like a Tesla. The hard part is re-platforming the car. Well, my notes are now re-platformed. Everything else is just a software update.
 
 Here's hoping for some great software updates!
 
