@@ -22,7 +22,7 @@ Let's jump in.
 
 The first dated entry I could find from one of my paper notebooks is April 4, 2000: my eighteenth birthday. The writings began as the overwrought ramblings of a passionate high schooler. Throughout [undergrad](http://cs.trinity.edu/) and into [grad school](https://cs.unc.edu/), I continued to write frequently but haphazardly, not really establishing a structured habit for my usage of paper.
 
-But beginning in 2006, I got serious. I was a year into grad school, it had gotten hard, and I needed new habits to carry me through. I began carrying a paper notebook with me everywhere. And I mean everywhere. I started my day by cracking it open, carried it to all my meetings, lunches, church, travel, everywhere. Notebook-carrying became such a fixture of my identity that by 2010 the write-everything-down habit was hilariously caricatured by a friend in a skit: he acted out me on a date with my wife, studiously hunched over a 3 foot by 4 foot cardboard notebook, writing down every word of our romantic conversation.
+But beginning in 2006, I got serious. Grad school was challenging, and I needed new habits to carry me through. I began carrying a paper notebook with me everywhere. And I mean everywhere. I started my day by cracking it open, carried it to all my meetings, lunches, church, travel, everywhere. Notebook-carrying became such a fixture of my identity that by 2010 the write-everything-down habit was hilariously caricatured by a friend in a skit: he acted out me on a date with my wife, studiously hunched over a 2 foot by 3 foot cardboard notebook, writing down every word of our romantic conversation.
 
 ![](../images/notebook-wedding-scene.jpg)
 
@@ -34,7 +34,7 @@ There was no better way to start to a day than with a fresh page, jotting down t
 
 All that's to say, I was and am still deeply in love with paper. But, not paper for paper's sake, but rather what paper has enabled: the medium allows my thoughts to flow freely, concretize, take on shape and form, to sing.
 
-## A dalliance with digital
+## Digital diversions
 
 Perhaps unlike many notebook aficionados, I have always been a digital native. So while the evolution of my pen and paper system was extensive, it isn't the full story.
 
@@ -48,11 +48,11 @@ In 2011, faced with that pile of notes and tasks scattered across git repositori
 
 In tandem with my paper note-taking practice, I iterated on my digital note-taking process. Over the next decade, I migrated to [NVAlt](https://brettterpstra.com/projects/nvalt/) and then [Bear](https://bear.app/), bringing my growing collection of notes with me each time. Task-tracking underwent it's own changes: from paper notebooks, to todo apps like [Wunderlist](https://en.wikipedia.org/wiki/Wunderlist), then [Todoist](https://todoist.com/), and finally to a single plain markdown file.
 
-If you're really into organizational systems, I recorded a [livestream](livestream) where I whiteboarded my reading, writing, and note-taking systems.
+If you're really into organizational systems, I recorded a [livestream](https://www.youtube.com/watch?v=KgPbX-FjwyM) where I whiteboarded my reading, writing, and note-taking systems.
 
 Today, I have over 700 notes spanning a decade, including this article, and my organizational systems continue to mature, though I've never felt quite satisfied.
 
-## Paper and digital: Advantages
+## Digital's advantages over paper
 
 In my decades of experimentation, I've found that my digital note repository does have advantages over my multitude of Moleskines.
 
@@ -66,7 +66,7 @@ When it comes to paper, I have often dreamed of removing all my notebooks from
 
 ![My notebooks with date tabs.](../images/notebooks-with-tabs.jpg)
 
-**Sharing and collaboration.** I love the ease with which I can share a digital note with coworkers or migrate them to a collaborative document like Google Docs or Notion.
+**Sharing and collaboration.** I love the ease with which I can share a digital note with coworkers or migrate them to a collaborative document like Google Docs or Notion. Recipients can annotate and introduce their own edits, a key enabler of collaboration.
 
 Paper is still far too difficult to share. Even with ubiquitous smartphone cameras, wifi, and apps to quickly "scan" a document (I use the excellent [Office Lens](https://apps.apple.com/us/app/microsoft-office-lens-pdf-scan/id975925059)), it's still not as easy to share paper as it is digital text. 
 
@@ -96,13 +96,13 @@ If you made it through my fifteen utterances of "holy smokes" in seventy-five se
 
 ![](../images/remarkable-full-2.jpg)
 
-As I mentioned in the video, writing on reMarkable feels extremely close to writing on paper. It's difficult to describe without experiencing it. The combination of reMarkable's marker scraping across the tablet surface produces two distinct sensations:
+As I mentioned in the video, writing on reMarkable feels extremely close to writing on paper. It's difficult to describe without experiencing it. The combination of reMarkable's marker scraping across the tablet surface produces three distinct sensations:
 
 **Texture.** reMarkable eschews the typical "hard plastic on glass" feeling of writing on an iPad with the Apple Pencil. Instead, it feels like the fine grain of a lead pencil scraping across a lightly-textured paper. The resistance is delightful. I feel more accurate with each stroke, more connected to the surface.
 
 **"Sinkiness."** Somehow, I feel like I'm actually pressing _into_ the surface of the tablet with the tip of the marker. There's _give_ to it, just like paper.
 
-**No (or very little) glare.** reMarkable's screen looks great in full sunlight. The surface of reMarkable is an e-paper screen, similar to the Kindle, but slightly more matte in appearance. Unlike the iPad or a computer screen, it reacts like paper. Side benefit: no blue light at night!
+**No (or very little) glare.** reMarkable's screen looks great in full sunlight. The surface of reMarkable is an e-ink screen, similar to the Kindle, but slightly more matte in appearance. Unlike the iPad or a computer screen, it reacts like paper. Side benefit: no blue light at night!
 
 ### It does one thing well
 
@@ -122,24 +122,40 @@ Moleskines were a delight to carry and use, a beautiful marriage of form and fun
 
 I expect to be carrying reMarkable everywhere for the next decade.
 
+### Hopes for the future of reMarkable
+
+The reMarkable tablet has replaced my notebook, but it's only one step in the direction of digitizing my note-taking practice. Yes, every note is now stored as digital scribbles, automatically synced to all of my devices, and I can carry with me every note I've ever written. Replacing my notebooks with a digital version is seriously impressive!
+
+But many of the drawbacks of the analog notebook persist.
+
+**Notes aren't searchable.** I continue to use my time-ordering system of writing a new note each day and grouping notebooks into months in order to easily "jump to" a date. But my scribbles are not yet searchable text. They could be! Digitizing my notes is step one. I'm hopeful that reMarkable will start automatically transcribing notes in the future and support robust search.
+
+**Bring your own workflow.** The reMarkable is a delightfully hackable device and there's a [solid community of software add-ons](https://github.com/reHackable/awesome-reMarkable) that extend the reMarkable's capabilities. But that's left as "an exercise for the writer." The built-in workflows are extremely rudimentary: effectively, it's just sync.
+
+While ehe reMarkable is an incredible piece of hardware, the software is merely serviceable. In my mind, I believe they've solved the hardest problem already. Think of it like a Tesla. The hard part is re-platforming the car. Well, my notes are now re-platformed. Everything else is just a software update.
+
+Here's hoping for some great software updates!
+
 ## A life-changing device
 
 ![From carrying two moleskines to one reMarkable.](../images/notebooks-vs-remarkable.jpg)
 
-It's exceedingly rare to buy a device that changes your life. And yet, the reMarkable has done just that. The reMarkable tablet marries the ambiance and focus of paper with the utility and integration of the digital world.
+It's exceedingly rare to buy a device that changes your life. And yet, the reMarkable has done just that: the reMarkable tablet marries **the ambiance and focus of paper with the utility and integration of the digital world.**
 
 There's still a lot of work to do to integrate my instantly-digitized "paper" notes into a larger digital workflow. I'll address those workflows in a separate article. But here's how my life is different today:
 
 - I no longer carry around 2 (or more) notebooks - my reMarkable houses both my daily working log and personal journal in separate "notebooks." In fact, _all_ of my past notebooks are on the reMarkable as well! I can refer back to notes from months ago, long after the completed Moleskine would have been left on a shelf at home.
-- My "paper notebooks" are nkow (almost) immediately available digitally via reMarkable's cloud sync service. If I want to share a page or diagram, it's a simple process to grab the page via the app on my Mac.
+- My "paper notebooks" are now (almost) immediately available digitally via reMarkable's cloud sync service. If I want to share a page or diagram, it's a simple process to grab the page via the app on my Mac.
 - reMarkable doubles as a reading device for PDFs and has improved my reading workflow. I used to print out papers I wanted to read and haul them around. Now I have them all on my reMarkable, with full ability to highlight and annotate as I read.
+
+I'm excited to see what the next decade holds. It feels like we've passed an important threshold: **an affordable digital tablet can now recreate the experience of writing on paper.** I suspect we'll find ways to further improve the writing experience, but I'm most looking forward to a deeper workflow integration between the analog and the digital.
+
+### How do I love thee?
 
 A few days ago, I misplaced the marker for my reMarkable. (You need an [EMR stylus](https://essentialpicks.com/emr-stylus-how-wacom-pens-work/) in order to write on a reMarkable - regular stylii don't work!) I felt a distinct feeling of loss - not being able to jot notes on my reMarkable throughout the day was almost physically painful.
 
-As they say, sometimes you don't realize how much you love something until you lose it.
+As they say, sometimes you don't realize how much you love something until you lose it. Fortunately, I recovered the marker a few days later, much to my relief. I really do love this little notebook!
 
-Fortunately, I recovered the marker a few days later, much to my relief. I really do love this little notebook!
-
-I'm excited to see what the next decade holds. It feels like we've passed an important threshold: **an affordable digital tablet can now recreate the experience of writing on paper.** I suspect we'll find ways to further improve the writing experience, but I'm most looking forward to a deeper workflow integration between the analog and the digital.
+_More questions? If you're curious about how I use my reMarkable or my note-taking practices, reach out on [twitter](https://twitter.com/jessmartin)._
 
 ![](../images/remarkable-folio.jpg)
