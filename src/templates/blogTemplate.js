@@ -4,6 +4,7 @@ import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import WeeklyUpdateSignup from "../components/weekly-update-signup"
 
 export default function Template({ data }) {
   const { markdownRemark } = data
@@ -16,10 +17,13 @@ export default function Template({ data }) {
           {frontmatter.pageType === "research-note" && (
             <div className="article-warning">
               <p>
-                <span role="img" aria-label="warning sign">⚠️</span><strong>&nbsp;Warning!</strong> This is an in-progress research
+                <span role="img" aria-label="warning sign">
+                  ⚠️
+                </span>
+                <strong>&nbsp;Warning!</strong> This is an in-progress research
                 note exported directly from{" "}
-                <Link to="/notes">Jess's note-taking system</Link>. The ideas
-                in this note are still under active development.
+                <Link to="/notes">Jess's note-taking system</Link>. The ideas in
+                this note are still under active development.
               </p>
             </div>
           )}
@@ -32,6 +36,7 @@ export default function Template({ data }) {
           />
         </div>
       </div>
+      <WeeklyUpdateSignup />
     </Layout>
   )
 }

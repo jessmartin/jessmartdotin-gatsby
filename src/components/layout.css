@@ -345,8 +345,15 @@ header h1 a:hover {
   width: 180px;
   height: 180px;
   background-color: #fff;
-  padding: 3px;
   border: 2px solid #d7d7d7;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+#weekly-update-signup {
+  border-radius: 10px;
+  background-color: #efefef;
+  padding: 10px 20px;
 }
 
 .left-title {
@@ -480,6 +487,35 @@ div.lets-talk a.book-me-link span.on-ohours {
 
 .hide {
   display: none;
+}
+
+/* Forms */
+form {
+  margin-top: 10px;
+}
+
+input {
+  font-size: 1.4em;
+  margin-right: 5px;
+  border: 2px solid #c7c7c7;
+  border-radius: 5px;
+  padding: 5px;
+}
+input[type="submit"] {
+  background-color: #999;
+  border-color: #999;
+  color: #fff;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+input.signup-submit {
+  color: #fff;
+}
+
+input[type="submit"]:hover {
+  cursor: pointer;
 }
 
 /* Articles */

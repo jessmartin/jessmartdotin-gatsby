@@ -5,6 +5,7 @@ import Layout from "../components/layout"
 import Image from "../components/image"
 import SEO from "../components/seo"
 import NoteLink from "../components/note-link"
+import WeeklyUpdateSignup from "../components/weekly-update-signup"
 
 const IndexPage = ({
   data: {
@@ -33,6 +34,8 @@ const IndexPage = ({
       <section>
         <h3>Recent</h3>
         <ul>{RecentNotes}</ul>
+
+        <WeeklyUpdateSignup />
       </section>
 
       <h3 id="work">Work</h3>
