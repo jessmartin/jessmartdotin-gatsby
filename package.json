@@ -13,6 +13,8 @@
     "gatsby-plugin-offline": "^3.10.2",
     "gatsby-plugin-react-helmet": "^3.10.0",
     "gatsby-plugin-sharp": "^2.14.4",
+    "gatsby-plugin-twitter": "^3.8.0",
+    "gatsby-remark-gifs": "^1.0.0",
     "gatsby-remark-images": "^3.11.1",
     "gatsby-source-filesystem": "^2.11.1",
     "gatsby-transformer-remark": "^2.16.1",

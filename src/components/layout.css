@@ -526,6 +526,7 @@ input[type="submit"]:hover {
 
 .article img {
   border-radius: 10px;
+  width: 100%;
 }
 .article .gatsby-resp-image-figcaption {
   padding-top: 5px;
