@@ -1,6 +1,6 @@
 ---
 slug: "articles/copilot"
-date: 2021-06-30
+date: 2021-07-01
 title: "Copilot and Conversational Programming"
 pageType: article
 ---
