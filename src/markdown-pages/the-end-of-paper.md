@@ -1,10 +1,11 @@
 ---
 slug: "articles/remarkable"
 date: 2021-05-18
-title: "The End of Paper"
+title: "The End of Paper: A reMarkable Experience Report"
 pageType: article
+featured: yes
 ---
-# The End of Paper
+# The End of Paper: A reMarkable Experience Report
 
 ![My notebooks: 2006-2021](../images/all-notebooks.jpg)
 
