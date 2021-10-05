@@ -3,6 +3,7 @@ slug: "work"
 date: 2021-05-11
 title: "The Work I'm Looking For"
 pageType: article
+featured: yes
 ---
 # The Work I'm Looking For
 I've been shipping software professionally for nearly 20 years, alternating between early-stage startups and consulting. I've played many of the positions one can play in tech: developer, project manager, sales, product manager, engineering manager, architect, CTO, co-founder, general manager.

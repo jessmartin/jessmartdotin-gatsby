@@ -3,6 +3,7 @@ slug: "articles/infinite-room"
 date: 2021-02-01
 title: "An Infinite Room for Thought"
 pageType: article
+featured: yes
 ---
 # An Infinite Room for Thought
 Imagine an infinite room dedicated to thinking. What would be in this room? 

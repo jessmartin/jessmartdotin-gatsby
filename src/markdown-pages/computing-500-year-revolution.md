@@ -3,6 +3,7 @@ slug: "articles/500-years"
 date: 2021-02-17
 title: "Computing: A 500 Year Revolution"
 pageType: article
+featured: yes
 ---
 
 ![Printing Press](../images/printing-press.jpg)

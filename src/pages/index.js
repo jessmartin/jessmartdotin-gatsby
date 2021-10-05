@@ -32,7 +32,7 @@ const IndexPage = ({
       </p>
 
       <section>
-        <h3>Recent</h3>
+        <h3>Featured</h3>
         <ul>{RecentNotes}</ul>
 
         <WeeklyUpdateSignup />
@@ -295,7 +295,7 @@ export default IndexPage
 // prettier-ignore
 export const pageQuery = graphql`
   query {
-    allMarkdownRemark(limit: 5, sort: {fields: frontmatter___date, order: DESC}) {
+    allMarkdownRemark(limit: 5, filter: {frontmatter: {featured: {eq: "yes"}}}, sort: {fields: frontmatter___date, order: DESC}) {
       edges {
         node {
           id
