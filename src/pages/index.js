@@ -39,16 +39,8 @@ const IndexPage = ({
       </section>
 
       <h3 id="work">Work</h3>
-      <h4>Current</h4>
+      <h4>Current: Independent Research</h4>
       <ul>
-        <li>
-          I <strong>livestream</strong> my adventures in programming on YouTube
-          via{" "}
-          <a href="https://www.youtube.com/user/jessamartin">
-            Coding With Jess
-          </a>
-          .
-        </li>
         <li>
           I <strong>publish</strong> my <a href="/notes/">research notes</a> via
           a home-grown note-taking system.
@@ -69,9 +61,12 @@ const IndexPage = ({
           .
         </li>
         <li>
-          I design and deliver educational experiences to{" "}
-          <strong>teach software engineering</strong> at scale at{" "}
-          <a href="https://lambdaschool.com/">Lambda School</a>.
+          I <strong>livestream</strong> my adventures in programming on YouTube
+          via{" "}
+          <a href="https://www.youtube.com/user/jessamartin">
+            Coding With Jess
+          </a>
+          .
         </li>
       </ul>
       <h4>Startups</h4>
@@ -97,6 +92,10 @@ const IndexPage = ({
             press @ TC
           </a>
           ).
+        </li>
+        <li>
+          <a href="https://lambdaschool.com/">Lambda School</a> - I designed and delivered educational experiences to{" "}
+          teach software engineering at scale.
         </li>
         <li>
           <a href="https://twitter.com/enroll_io">Enroll</a> - A platform for
