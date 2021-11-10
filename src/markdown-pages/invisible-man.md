@@ -1,12 +1,14 @@
 ---
 slug: "articles/invisible"
 date: 2021-11-10
-title: "The Invisible Man Problem: The frustration of real-time collaboration experiences with software"
+title: "The Invisible Man Problem"
 pageType: article
 featured: no
 ---
 
 # The Invisible Man Problem
+
+### The frustrations of software-based collaboration
 
 Why do collaboration experiences in applications feel so frustrating?
 
@@ -29,7 +31,7 @@ These social norms act like a social contract that significantly reduces frictio
 
 Unfortunately, collaborative experiences in software have shed many of those affordances and social cues. 
 
-INSERT: another picture of a board game?
+INSERT: picture of the invisible man?
 
 To get a feel for this frustration, imagine again playing a board game in the real world, but this time you are playing with an invisible man. As you wait for them to take their turn, you have no idea what they are doing. Are they considering a specific move? Are they concentrating or distracted? Are they even sitting at the table, or have they gone to the restroom? Pieces would move about the board without warning, cards would flip over unexpectedly. Just as you reach for a piece, it's plucked from the table and moved out of your reach. You look away for a moment and the state of the board changes, yet you can't tell what was moved. It would be extremely disconcerting.
 
@@ -37,7 +39,7 @@ Collaborative experiences in applications are a lot like playing that board game
 
 Let's consider a couple of applications that tend to have multiple users collaborating in real time, and show some of the confusing interactions that can result when the environment fails to communicate effectively.
 
-## Trello
+## Collaborating with the invisible man
 
 Trello is a well-known Kanban board tool that allows users to arrange cards into a series of vertical lists. Each card has a title, a description, and numerous other fields such as comments. Users can drag cards between lists, reorder cards within lists, edit the content of cards, add new cards, delete cards. Importantly, Trello allows multiple users to view and edit the same board simultaneously.
 
