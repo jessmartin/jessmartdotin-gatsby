@@ -6,7 +6,7 @@ pageType: article
 featured: no
 ---
 
-# The Invisible Man Problem
+# DRAFT: The Invisible Man Problem
 
 ### The frustrations of software-based collaboration
 
