@@ -3,6 +3,7 @@ slug: "articles/real-time"
 date: 2021-11-15
 title: "Concerns When Building Real-time Multi-user Applications"
 pageType: article
+draft: yes
 ---
 
 # DRAFT: Concerns of Real-time Multi-user Applications
