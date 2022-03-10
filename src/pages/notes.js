@@ -3,7 +3,7 @@ import { graphql } from "gatsby"
 
 import NoteLink from "../components/note-link"
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 
 const NotesPage = ({
   data: {
@@ -16,7 +16,7 @@ const NotesPage = ({
 
   return (
     <Layout>
-      <SEO title="Research Notebook" />
+      <Seo title="Research Notebook" />
       <div className="article-warning">
         <p>
           <strong><span role="img" aria-label="Warning sign">⚠️</span> Warning!</strong> These are in-progress research notes
