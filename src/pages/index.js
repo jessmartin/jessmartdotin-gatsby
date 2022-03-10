@@ -3,7 +3,7 @@ import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import Image from "../components/image"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 import NoteLink from "../components/note-link"
 import WeeklyUpdateSignup from "../components/weekly-update-signup"
 
@@ -18,7 +18,7 @@ const IndexPage = ({
 
   return (
     <Layout>
-      <SEO title="Jess Martin" />
+      <Seo title="Jess Martin" />
       <div class="portrait">
         <Image />
       </div>

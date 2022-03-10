@@ -3,7 +3,7 @@ import { graphql } from "gatsby"
 import { Link } from "gatsby"
 
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 import WeeklyUpdateSignup from "../components/weekly-update-signup"
 
 export default function Template({ data }) {
@@ -11,7 +11,7 @@ export default function Template({ data }) {
   const { frontmatter, html } = markdownRemark
   return (
     <Layout>
-      <SEO title={frontmatter.title} />
+      <Seo title={frontmatter.title} />
       <div className="article-container">
         <div className="article">
           {frontmatter.pageType === "research-note" && (
