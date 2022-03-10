@@ -1,62 +1,5 @@
-html,
-body,
-div,
-span,
-applet,
-object,
-iframe,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p,
-blockquote,
-pre,
-a,
-abbr,
-acronym,
-address,
-big,
-cite,
-code,
-del,
-dfn,
-em,
-font,
-img,
-ins,
-kbd,
-q,
-s,
-samp,
-small,
-strike,
-strong,
-sub,
-sup,
-tt,
-var,
-dl,
-dt,
-dd,
-ol,
-ul,
-li,
-fieldset,
-figure,
-form,
-label,
-legend,
-table,
-caption,
-tbody,
-tfoot,
-thead,
-tr,
-th,
-td {
+/* prettier-ignore */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, figure, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
   margin: 0;
   padding: 0;
   border: 0;
@@ -231,36 +174,34 @@ strong {
   padding-left: 8px;
 }
 
-/* Structure */
-#content,
-#header,
-#header-tight,
-#footer {
-  margin: 0 auto;
-  width: 760px;
-  overflow: visible;
-  position: relative;
-}
-
 /* Header/title */
 header {
-  text-align: center;
   border-bottom: 2px solid #d7d7d7;
   background-color: #e7e7e7;
 }
 header h1 {
+  font-size: 3.2em;
   color: #333;
+  display: inline-block;
 }
 header h1 a {
-  text-shadow: 4px 3px rgba(0, 0, 0, 0.43);
+  text-shadow: 0.07em 0.04em rgba(0, 0, 0, 0.43);
   color: #333;
   transition: text-shadow 400ms ease-in-out, color 400ms ease-in-out;
 }
 header h1 a:hover {
   text-decoration: none;
   color: #666;
-  text-shadow: 4px 3px rgba(0, 0, 0, 0.3);
+  text-shadow: 0.12em 0.09em rgba(0, 0, 0, 0.3);
   transition: text-shadow 100ms ease-in-out, color 100ms ease-in-out;
+}
+header ul {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+header ul li {
+  list-style-type: none;
 }
 
 /* Tight header for subpages */
@@ -332,10 +273,6 @@ header h1 a:hover {
 }
 
 /* Content */
-#content {
-  padding: 30px 0;
-}
-
 .project-link {
   font-weight: 700;
 }
@@ -365,124 +302,6 @@ header h1 a:hover {
   font-size: 1.8em;
   text-shadow: 1px 1px 1px #fff;
   margin-bottom: 0.8em;
-}
-
-#content.office-hours {
-  padding-top: 5px;
-}
-
-.strikethrough {
-  text-decoration: line-through;
-}
-
-#content-wrap {
-  background-color: #efefef;
-  border-top: 1px solid #ccc;
-  border-bottom: 1px solid #ccc;
-}
-
-h2.office-hours {
-  letter-spacing: 0;
-  margin-top: 10px;
-  margin-bottom: -10px;
-  text-shadow: 3px 3px 0px #999;
-}
-p.subtitle {
-  /*border-top: 5px solid #444;*/
-}
-p.subtitle em {
-  text-shadow: 1px 1px #999;
-}
-
-ul.questions {
-  display: inline-block;
-  width: 390px;
-  vertical-align: top;
-  margin-top: 60px;
-  margin-right: 1px;
-}
-
-ul.questions li {
-  list-style-type: none;
-  margin: 0 0 3px 0;
-  font-size: 18px;
-  width: 390px;
-  text-align: center;
-}
-
-ul.questions li em {
-  text-shadow: 2px 2px 0px #ccc;
-}
-
-span.curly-brace {
-  font-family: Lucida Grande, Arial, sans-serif;
-  display: inline-block;
-  font-size: 350px;
-  line-height: 1em;
-  margin-right: 1px;
-  text-shadow: 3px 3px 0px #999;
-  width: 120px;
-}
-
-div.lets-talk {
-  width: 200px;
-  display: inline-block;
-  margin-top: 175px;
-  margin-left: 10px;
-  margin-right: 1px;
-  vertical-align: top;
-}
-div.lets-talk p {
-  font-size: 34px;
-  margin-bottom: 0;
-}
-div.lets-talk p em {
-  font-style: italic;
-  text-shadow: 1px 1px #999;
-}
-div.lets-talk a.book-me-link {
-  cursor: pointer;
-  display: block;
-  width: 200px;
-  text-decoration: none;
-  white-space: nowrap;
-}
-a.book-me-link:hover span.book-me:after {
-  content: " \00bb";
-}
-
-div.lets-talk a.book-me-link span.book-me {
-  display: block;
-  font-size: 44px;
-  font-weight: bold;
-  text-transform: uppercase;
-  letter-spacing: -2px;
-  text-shadow: 3px 3px 0px #bacce0;
-  margin-bottom: -5px;
-}
-div.lets-talk a.book-me-link span.on-ohours {
-  font-size: 14px;
-  font-style: italic;
-  float: right;
-}
-
-#content p.expectations {
-  margin: 10px 0 15px;
-}
-
-#content p.expectations strong {
-  text-shadow: 2px 2px 0px #ddd;
-}
-
-#content h3.what-do-i-get {
-  margin-top: 30px;
-}
-#content h3.what-to-expect {
-  margin-top: 60px;
-}
-
-.pull-right {
-  float: right;
 }
 
 .hide {
@@ -565,15 +384,16 @@ input[type="submit"]:hover {
 }
 /* Footer */
 footer {
-  text-align: center;
-  color: #333;
+  color: #555;
   background-color: #e7e7e7;
   border-top: 2px solid #d7d7d7;
-  padding-top: 30px;
-  padding-bottom: 15px;
+  padding-top: 10px;
+  padding-bottom: 5px;
 }
 
 footer p {
+  text-align: center;
   font-size: 1.6em;
   text-shadow: 1px 1px #c7c7c7;
+  margin-bottom: 0;
 }

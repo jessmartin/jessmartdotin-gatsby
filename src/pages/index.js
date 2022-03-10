@@ -277,15 +277,10 @@ const IndexPage = ({
 
       <h3>Elsewhere on the web</h3>
       <p>
-        I post code on <a href="http://github.com/jessmartin">github</a>.
+        My code is on <a href="http://github.com/jessmartin">github</a>.
+        I'm <a href="http://twitter.com/jessmartin">@jessmartin</a> on twitter.
       </p>
-      <p>
-        I write on <a href="https://medium.com/@jessmartin">medium</a>.
-      </p>
-      <p>
-        I occasionally <a href="http://twitter.com/jessmartin">tweet</a>.
-      </p>
-    </Layout>
+    </Layout >
   )
 }
 
