@@ -29,7 +29,9 @@ const Layout = ({ children }) => {
         <main>{children}</main>
       </div>
       <footer>
-        <p>© {new Date().getFullYear()} - Jess Martin</p>
+        <div>
+          <p>© {new Date().getFullYear()} - Jess Martin</p>
+        </div>
       </footer>
     </>
   )
