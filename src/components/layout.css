@@ -19,10 +19,6 @@ body {
   color: #000;
   background: #fff;
 }
-ol,
-ul {
-  list-style: none;
-}
 /* tables still need 'cellspacing="0"' in the markup */
 table {
   border-collapse: separate;
@@ -118,10 +114,12 @@ section > ul > li {
 }
 ol li,
 ul li {
-  list-style-type: disc;
   margin-left: 25px;
   padding-bottom: 5px;
   line-height: 1.6em;
+}
+ul li {
+  list-style-type: disc;
 }
 ol li {
   list-style-type: decimal;
@@ -195,13 +193,16 @@ header h1 a:hover {
   text-shadow: 0.12em 0.09em rgba(0, 0, 0, 0.3);
   transition: text-shadow 100ms ease-in-out, color 100ms ease-in-out;
 }
-header ul {
+header ul.nav {
   display: inline-block;
   margin: 0;
   padding: 0;
 }
-header ul li {
+header ul.nav li {
   list-style-type: none;
+  display: inline-block;
+  margin: 0;
+  margin-left: 1em;
 }
 
 /* Tight header for subpages */
