@@ -3,7 +3,7 @@ import { Link, graphql } from "gatsby"
 
 import NoteLink from "../components/note-link"
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 
 const NotesPage = ({
   data: {
@@ -16,7 +16,7 @@ const NotesPage = ({
 
   return (
     <Layout>
-      <SEO title="Writings | Jess Martin" />
+      <Seo title="Writings | Jess Martin" />
 
       <h2>Writings</h2>
 
