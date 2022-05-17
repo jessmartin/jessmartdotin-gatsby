@@ -39,14 +39,14 @@ const IndexPage = ({
       </section>
 
       <h3 id="work">Work</h3>
-      <h4>Current: Independent Research</h4>
+      <h4>Current: Applied Research @ <a href="https://fission.codes">Fission</a></h4>
       <ul>
         <li>
           I <strong>publish</strong> my <a href="/notes/">research notes</a> via
           a home-grown note-taking system.
         </li>
         <li>
-          My current <strong>research interests</strong> are{" "}
+          My <strong>research interests</strong> are{" "}
           <a href="/notes/0581F68D-2A5F-4851-A617-A9FBD3592636-827-0000351A69320E9E">
             Realtime Collaboration Systems
           </a>
@@ -217,6 +217,16 @@ const IndexPage = ({
           Procedural House Generation: A method for dynamically generating floor
           plans, delivered at Interactive 3D Graphics and Games, March 2006.
         </li>
+      </ul>
+
+      <h3 id="creators">Creators I Support</h3>
+      <p>I love supporting people who are doing interesting, thoughtful creative work.</p>
+
+      <p>I monetarily support the following creators:</p>
+      <ul>
+        <li><a href="https://www.patreon.com/quantumcountry">Andy Matuschak</a></li>
+        <li><a href="https://alexanderobenauer.com/membership">Alexander Obernauer</a></li>
+        <li><a href="https://simonsarris.substack.com/">Simon Sarris</a></li>
       </ul>
 
       <h3>Elsewhere on the web</h3>
