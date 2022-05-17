@@ -42,6 +42,9 @@ const IndexPage = ({
       <h4>Current: Applied Research @ <a href="https://fission.codes">Fission</a></h4>
       <ul>
         <li>
+          I help <strong>organize</strong> a monthly meetup called <a href="https://toolsforthought.rocks/">Tools for for Thought Rocks</a>.
+        </li>
+        <li>
           I <strong>publish</strong> my <a href="/notes/">research notes</a> via
           a home-grown note-taking system.
         </li>
@@ -224,9 +227,11 @@ const IndexPage = ({
 
       <p>I monetarily support the following creators:</p>
       <ul>
-        <li><a href="https://www.patreon.com/quantumcountry">Andy Matuschak</a></li>
         <li><a href="https://alexanderobenauer.com/membership">Alexander Obernauer</a></li>
+        <li><a href="https://www.patreon.com/quantumcountry">Andy Matuschak</a></li>
+        <li><a href="http://pketh.org/">Pirijan</a></li>
         <li><a href="https://simonsarris.substack.com/">Simon Sarris</a></li>
+        <li><a href="https://twitter.com/_vojto">Vojtech Rinik</a></li>
       </ul>
 
       <h3>Elsewhere on the web</h3>
