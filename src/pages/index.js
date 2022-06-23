@@ -42,6 +42,17 @@ const IndexPage = ({
       <h4>Current: Applied Research @ <a href="https://fission.codes">Fission</a></h4>
       <ul>
         <li>
+          I <strong>livestream</strong> my adventures in programming on YouTube
+          via{" "}
+          <a href="https://www.youtube.com/user/jessamartin">
+            Coding With Jess
+          </a>
+          .
+        </li>
+        <li>
+          I'm <strong>investigating</strong> new economic models for resourcing open source software through <a href="https://sociotechnica.org">SocioTechnica</a>.
+        </li>
+        <li>
           I help <strong>organize</strong> a monthly meetup called <a href="https://toolsforthought.rocks/">Tools for for Thought Rocks</a>.
         </li>
         <li>
@@ -60,14 +71,6 @@ const IndexPage = ({
           , and inventing new{" "}
           <a href="/notes/20E186CF-BDF2-4143-8B94-69ECABD3E7B0-951-000059BBE372F180">
             Tools for Thinking
-          </a>
-          .
-        </li>
-        <li>
-          I <strong>livestream</strong> my adventures in programming on YouTube
-          via{" "}
-          <a href="https://www.youtube.com/user/jessamartin">
-            Coding With Jess
           </a>
           .
         </li>
