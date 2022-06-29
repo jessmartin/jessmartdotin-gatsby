@@ -116,6 +116,18 @@ const IndexPage = ({
       <h4>Projects & Open Source</h4>
       <ul>
         <li>
+          <a href="https://github.com/jessmartin/mumblr">
+            Mumblr
+          </a>{" "}
+          - Micro-blogging in the vein of tumblr, powered by Fission's <a href="https://github.com/fission-suite/webnative">WebNative</a>.
+        </li>
+        <li>
+          <a href="https://mediums.jessmart.in">
+            Medium Mashup
+          </a>{" "}
+          - An Innovation Game where you invent a new tool using randomly selected mediums and notations.
+        </li>
+        <li>
           <a href="https://github.com/jessmartin/spotify-new-releases">
             Spotify New Releases
           </a>{" "}
