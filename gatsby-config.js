@@ -68,7 +68,8 @@ module.exports = {
           "/*": [
             "X-Frame-Options: ALLOW",
           ],
-        }
+        },
+        mergeSecurityHeaders: false,
       }
     }
 
