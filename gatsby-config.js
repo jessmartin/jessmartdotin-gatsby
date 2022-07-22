@@ -5,10 +5,6 @@ module.exports = {
     author: `@jessmartin`,
   },
   plugins: [
-    {
-      resolve: `gatsby-plugin-netlify`,
-      options: { mergeSecurityHeaders: false, }
-    },
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,
