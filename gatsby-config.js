@@ -5,7 +5,10 @@ module.exports = {
     author: `@jessmartin`,
   },
   plugins: [
-    `gatsby-plugin-netlify`,
+    {
+      resolve: `gatsby-plugin-netlify`,
+      options: { mergeSecurityHeaders: false, }
+    },
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,
@@ -49,7 +52,6 @@ module.exports = {
       options: {
         plugins: [
           { resolve: `gatsby-remark-gifs`, options: { maxWidth: 800 } },
-
           {
             resolve: `gatsby-remark-images`,
             options: {
@@ -58,12 +60,19 @@ module.exports = {
               markdownCaptions: true,
             },
           },
+          {
+            resolve: 'gatsby-remark-video',
+            options: {
+              width: 800,
+              height: 'auto',
+              preload: 'auto',
+              autoplay: true,
+              playsinline: true,
+              loop: true
+            }
+          },
         ],
       },
     },
-    {
-      resolve: `gatsby-plugin-netlify-headers`,
-      options: { mergeSecurityHeaders: false, }
-    }
   ],
 }

@@ -1,6 +1,6 @@
 ---
 slug: "articles/invisible"
-date: 2021-11-10
+date: 2022-07-22
 title: "Collaborating with the invisible"
 pageType: article
 featured: yes
@@ -43,6 +43,8 @@ To get a feel for this frustration, imagine again playing a board game in the re
 Let's consider a couple of applications that tend to have multiple users collaborating in real time, and show some of the confusing interactions that can result when the environment fails to communicate effectively.
 
 ## Invisible collaborators and your Kanban board
+
+`video: /videos/break-down-cards.mp4`
 
 Trello is a well-known Kanban board tool that allows users to arrange cards into a series of vertical lists. Each card has a title, a description, and numerous other fields such as comments. Users can drag cards between lists, reorder cards within lists, edit the content of cards, add new cards, delete cards. Importantly, Trello allows multiple users to view and edit the same board simultaneously.
 
