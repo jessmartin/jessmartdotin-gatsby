@@ -63,15 +63,7 @@ module.exports = {
     },
     {
       resolve: `gatsby-plugin-netlify-headers`,
-      options: {
-        headers: {
-          "/*": [
-            "X-Frame-Options: ALLOW",
-          ],
-        },
-        mergeSecurityHeaders: false,
-      }
+      options: { mergeSecurityHeaders: false, }
     }
-
   ],
 }
