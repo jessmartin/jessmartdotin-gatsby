@@ -75,43 +75,6 @@ const IndexPage = ({
           .
         </li>
       </ul>
-      <h4>Startups</h4>
-      <ul>
-        <li>
-          <a href="http://first.io">First</a> - Helping real estate agents
-          connect with their clients at the perfect time. Acquired by{" "}
-          <a href="https://remax.com">RE/MAX</a> (
-          <a href="https://investors.remax.com/investor-relations/press-releases/financial-releases/press-release-details/2019/REMAX-Acquires-Data-Science-Startup-First-Continuing-the-Brands-Technological-Transformation/default.aspx">
-            press release
-          </a>
-          ).
-        </li>
-        <li>
-          <a href="http://ranger.io">Ranger</a> - Partnered with{" "}
-          <a href="https://twitter.com/shayfrendt">Shay Frendt</a> to build a
-          heroku-based monitoring service. We got{" "}
-          <a href="http://blog.exceptional.io/news/we-acquire-ranger-io-to-give-monitoring-shot-in-the-arm/">
-            acquired
-          </a>{" "}
-          (
-          <a href="http://techcrunch.com/2012/11/29/exceptional-buys-ranger/">
-            press @ TC
-          </a>
-          ).
-        </li>
-        <li>
-          <a href="https://lambdaschool.com/">Lambda School</a> - I designed and delivered educational experiences to{" "}
-          teach software engineering at scale.
-        </li>
-        <li>
-          <a href="https://twitter.com/enroll_io">Enroll</a> - A platform for
-          managing in-person classes, workshops, and courses.
-        </li>
-        <li class="hide">
-          <a href="/hours">Office Hours for Startups</a> - Meeting with local
-          entrepreneurs to help them grow their business.
-        </li>
-      </ul>
 
       <h4>Projects & Open Source</h4>
       <ul>
@@ -155,6 +118,40 @@ const IndexPage = ({
           a few different sites.
         </li>
         <li class="hide">Procedural House Generation</li>
+      </ul>
+
+      <h4>Startups</h4>
+      <ul>
+        <li>
+          <a href="http://first.io">First</a> - Helping real estate agents
+          connect with their clients at the perfect time. Acquired by{" "}
+          <a href="https://remax.com">RE/MAX</a> (
+          <a href="https://investors.remax.com/investor-relations/press-releases/financial-releases/press-release-details/2019/REMAX-Acquires-Data-Science-Startup-First-Continuing-the-Brands-Technological-Transformation/default.aspx">
+            press release
+          </a>
+          ).
+        </li>
+        <li>
+          <a href="http://ranger.io">Ranger</a> - Partnered with{" "}
+          <a href="https://twitter.com/shayfrendt">Shay Frendt</a> to build a
+          heroku-based monitoring service. We got{" "}
+          <a href="http://blog.exceptional.io/news/we-acquire-ranger-io-to-give-monitoring-shot-in-the-arm/">
+            acquired
+          </a>{" "}
+          (
+          <a href="http://techcrunch.com/2012/11/29/exceptional-buys-ranger/">
+            press @ TC
+          </a>
+          ).
+        </li>
+        <li>
+          <a href="https://twitter.com/enroll_io">Enroll</a> - A platform for
+          managing in-person classes, workshops, and courses.
+        </li>
+        <li class="hide">
+          <a href="/hours">Office Hours for Startups</a> - Meeting with local
+          entrepreneurs to help them grow their business.
+        </li>
       </ul>
 
 
