@@ -12,13 +12,15 @@ featured: yes
 
 Why do collaboration experiences in applications feel so frustrating?
 
-INSERT: Picture of playing a board game
+![Photo by <a href="https://unsplash.com/@bigpotatogames?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Big Potato</a> on <a href="https://unsplash.com/s/photos/board-game?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>](../images/board-game.jpg)
 
-Imagine for a moment you're playing a board game with someone, in the real world. You sit down across from them and the game is laid out on a table in front of you. As you play together, you casual observation of your opponent gives you a tremendous amount of information. You can tell from following their eyes what part of the board their focusing on. If their hand is hovering over a piece without touching it, they are clearly considering whether or not to move that piece. If they are leaned in towards the board, eyes closed, perhaps they are concentrating. If they are leaned back, staring blankly around the room or scrolling their phone, they might be distracted. If they are looking up at you, they might be waiting on you to say something or take your turn.
+Imagine for a moment you're playing a board game with someone, in the real world. You sit down across from them and the game is laid out on a table in front of you. As you play together, casual observation of your opponent gives you a tremendous amount of information. You can tell from following their eyes what part of the board their focusing on. If their hand is hovering over a piece without touching it, they are clearly considering whether or not to move that piece. If they are leaned in towards the board, eyes closed, perhaps they are concentrating. If they are leaned back, staring blankly around the room or scrolling their phone, they might be distracted. If they are looking up at you, they might be waiting on you to say something or take your turn.
 
-We have a term for this: body language. Our physical bodies *communicate*, whether we like it or not. We even have a term for the lack of communication from one's body–poker face–and it's a skill that must be developed. It's universally thought that training our bodies to _not_ communicate actually takes practice.
+We have a term for this: body language. Our physical bodies *communicate*, whether we like it or not. We even have a term for the lack of communication from one's body&mdash;poker face&mdash;and it's a skill that must be developed.
 
-INSERT: Picture of kids playing together
+Training our bodies to _not_ communicate actually takes practice.
+
+![Photo by <a href="https://unsplash.com/@artem_kniaz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Artem Kniaz</a> on <a href="https://unsplash.com/s/photos/kids-playing-together?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>](../images/collaborating.jpg)
 
 **Our physical body and physical spaces offer incredible affordances for understanding the actions and intentions of those we are collaborating with.** Furthermore, we have decades worth of experience and social norms about how to act constructively in those spaces. Think about how we teach young children to "play well with others": 
 
@@ -31,9 +33,12 @@ These social norms act like a social contract that significantly reduces frictio
 
 Unfortunately, collaborative experiences in software have shed many of those affordances and social cues. 
 
-To get a feel for this frustration, imagine again playing a board game in the real world, but this time you are playing with someone who is invisible. As you wait for them to take their turn, you have no idea what they are doing. Are they considering a specific move? Are they concentrating or distracted? Are they even sitting at the table, or have they gone to the restroom? Pieces would move about the board without warning, cards would flip over unexpectedly. Just as you reach for a piece, it's plucked from the table and moved out of your reach. You look away for a moment and the state of the board changes, yet you can't tell what was moved. It would be extremely disconcerting.
+![Photo by <a href="https://unsplash.com/@jeswinthomas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jeswin Thomas</a> on <a href="https://unsplash.com/s/photos/chess?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>](../images/invisible-chess.jpg)
 
-Collaborative experiences in applications are a lot like playing that board game with an invisble collaborator: disconcerting, to say the least.
+
+To get a feel for this frustration, imagine again playing a board game in the real world, but this time you are playing with someone who is **invisible**. As you wait for them to take their turn, you have no idea what they are doing. Are they considering a specific move? Are they concentrating or distracted? Are they even sitting at the table, or have they gone to the restroom? Pieces would move about the board without warning, cards would flip over unexpectedly. Just as you reach for a piece, it's plucked from the table and moved out of your reach. You look away for a moment and the state of the board changes, yet you can't tell what was moved. It would be extremely disconcerting.
+
+**Collaborative experiences in applications are a lot like playing that board game with an invisble collaborator: disconcerting, to say the least.**
 
 Let's consider a couple of applications that tend to have multiple users collaborating in real time, and show some of the confusing interactions that can result when the environment fails to communicate effectively.
 
