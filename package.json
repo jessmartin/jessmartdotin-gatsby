@@ -14,6 +14,7 @@
     "gatsby-plugin-react-helmet": "^5.19.0",
     "gatsby-plugin-sharp": "^4.19.0",
     "gatsby-plugin-twitter": "^4.19.0",
+    "gatsby-remark-autolink-headers": "^5.21.0",
     "gatsby-remark-gifs": "^1.1.0",
     "gatsby-remark-images": "^6.19.0",
     "gatsby-remark-video": "^1.2.5",
