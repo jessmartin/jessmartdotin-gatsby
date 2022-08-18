@@ -47,6 +47,7 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
+          `gatsby-remark-autolink-headers`,
           { resolve: `gatsby-remark-gifs`, options: { maxWidth: 800 } },
           {
             resolve: `gatsby-remark-images`,
