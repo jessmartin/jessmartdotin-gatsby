@@ -14,6 +14,9 @@ Enter the [Render Conference](https://www.betaworks.com/event/render-tools-for-t
 In this update, I'll skim across the main talks and demos and include [some take-aways](#themes) at the end. The main livestream is available [here]() as one long, 6-hour recording. Once it's cut into individual videos and re-posted, I will embed links to the individual talks below.
 
 ## Jerry Michalski and John Borthwick's Introduction
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/740855842?h=3216230466&byline=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 [John Borthwick](https://twitter.com/Borthwick) is the founder of [Betaworks](https://www.betaworks.com/), a venture studio that invests, accelerates and builds companies. Betaworks has been operating for 15 years; they know a thing or two about getting new products and technologies off the ground.
 
 [Jerry Michalski](https://www.jerrymichalski.com/) has been building a single mind map for over 25 years. You can explore it at JerrysBrain.com.
@@ -23,6 +26,9 @@ Betaworks will be hosting [ThinkCamp](https://www.betaworks.com/camp) this fall,
 ![](../images/render-intro.jpg)
 
 ## A Readwise Rewrite: Tristan Howsi and Daniel Doyon
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/740872708?h=ad7cc103fd&byline=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 [Tristan](https://twitter.com/homsiT) and [Daniel](https://twitter.com/deadly_onion) started [Readwise](https://readwise.io/) back in 2017, with the goal of helping people read better with software. Their initial core product loop was importing your highlights from Kindle and then feeding those into a spaced repetition system, effectively resurfacing the important parts of what you read, as determined by you. This led to "can I get these highlights in Evernote" and, amidst the cambrian explosion of note-taking apps, Readwise has found itself in an interesting position.
 
 Readwise itself has become a "switching station", a Zapier, if you will, for highlights and quotes among many different tools. People consume media, highlighting and taking notes on it, whether it's on a Kindle, YouTube, or a PDF. The want those highlights and notes to make it into a production tool: Roam, Evernote, Notion, whatever. And from their production tool, they create. Readwise has the odd honor of being the "man in the middle", a key component in many people's workflows.
@@ -39,6 +45,9 @@ Readwise grew with some good ol' fashioned bootstrapping: just charging customer
 They also gave a demo of [their beta Reader app](https://blog.readwise.io/readwise-reading-app/) that they built from the ground up. It's basically a custom web browser (cue the rise of domain-specific browsers!) focused on reading all sorts of mediums. It's quite impressive. I'd recommend reading this [post from last September](https://blog.readwise.io/readwise-reading-app/): it goes into great detail about their goals and approach in building their new product.
 
 ## Noosphere: A Protocol for Thought from Gordon Brander
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/740864201?h=f0a3c11ac9&byline=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 Rather than recapping Gordon's talk, I thought I'd just embed the slides below. 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSrgALX7moywYmggJxo1Q-ZnX_1-c69311enwhaRMSFayCwIrOX24d5lBZE8kjog0rfjrTW17OYahgX/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -49,6 +58,8 @@ If you're interested in learning more about Noosphere, [join the Discord](https:
 
 ## Howard Rheingold and a trip into TFT History
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/740878300?h=21531d28bf&byline=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 ![](../images/howard-1.jpg)
 ![](../images/howard-2.jpg)
 
@@ -58,23 +69,39 @@ The product demos were fun.
 
 ### Plexus Notes demoed by Davey Morse
 
-No notes.
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/740887076?h=850396fb36&byline=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ### re:collect demoed by Alice Albrecht
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/740889594?h=5b02c050e4&byline=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ![](../images/demo-recollect.jpg)
 
 ### Jerry's Brain demoed by Jerry Michalski
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/740892082?h=a516e12081&byline=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 ![](../images/demo-jerrysbrain.jpg)
 
 ### Sentence Gradients demoed by Linus Lee
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/740893906?h=14c110053e&byline=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 ![](../images/demo-linus.png)
+
+## Readwise Beta Demo
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/740897410?h=fdf404c071&byline=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ## AI and ML in Building New Thinking Tools: A Conversation with Linus Lee and Alice Albrecht
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/740902001?h=aa8eecc6ad&byline=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 ![](../images/aiml-convo.jpg)
+
+## Esther Dyson and Jerry Michalski Conversation
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/740912977?h=8153c014c2&byline=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ## The Hallway Track
 
