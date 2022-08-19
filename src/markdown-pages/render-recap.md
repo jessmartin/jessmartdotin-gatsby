@@ -82,6 +82,8 @@ No notes.
 
 ## Themes
 
+After musing on the conference for a few days, in particular some of the "hallway track" conversations and the dinner afterwards, a few themes stood out to me. While these weren't the subject of any one of the talks, they did thread through all of them.
+
 ### Interop All The Things
 Throughout the day, there was a lot of discussion on how these tools will talk to each other and share data. 
 
