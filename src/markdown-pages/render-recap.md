@@ -70,7 +70,7 @@ No notes.
 
 ### Sentence Gradients demoed by Linus Lee
 
-![](../images/demo-linus.jpg)
+![](../images/demo-linus.png)
 
 ## AI and ML in Building New Thinking Tools: A Conversation with Linus Lee and Alice Albrecht
 
