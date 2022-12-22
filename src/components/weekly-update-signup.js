@@ -7,7 +7,7 @@ const WeeklyUpdateSignup = () => (
       <b>weekly dispatch from the frontiers of computing</b>, including links to
       and summaries of interesting writings, discoveries of new people and
       projects, and updates on my personal projects.{" "}
-      <a href="https://buttondown.email/jessmartin/archive/">
+      <a href="https://letters.jessmart.in/archive/">
         Browse the archives
       </a>
       .
@@ -16,7 +16,7 @@ const WeeklyUpdateSignup = () => (
       action="https://buttondown.email/api/emails/embed-subscribe/jessmartin"
       method="post"
       target="popupwindow"
-      onsubmit="window.open('https://buttondown.email/jessmartin', 'popupwindow')"
+      onsubmit="window.open('https://letters.jessmart.in', 'popupwindow')"
     >
       <input
         id="first-name"
