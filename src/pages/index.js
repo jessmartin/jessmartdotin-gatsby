@@ -39,7 +39,7 @@ const IndexPage = ({
       </section>
 
       <h3 id="work">Work</h3>
-      <h4>Current: Applied Research @ <a href="https://fission.codes">Fission</a></h4>
+      <h4>Current: Reinventing Apps @ <a href="https://dxos.org" target="_blank">DXOS</a></h4>
       <ul>
         <li>
           I <strong>livestream</strong> my adventures in programming on YouTube
@@ -50,7 +50,7 @@ const IndexPage = ({
           .
         </li>
         <li>
-          I'm <strong>investigating</strong> new economic models for resourcing open source software through <a href="https://sociotechnica.org">SocioTechnica</a>.
+          I'm <strong>investigating</strong> the societal impacts of technology at <a href="https://sociotechnica.org">SocioTechnica</a>.
         </li>
         <li>
           I help <strong>organize</strong> a monthly meetup called <a href="https://toolsforthought.rocks/">Tools for for Thought Rocks</a>.
