@@ -19,6 +19,7 @@ const IndexPage = () => {
         <area target="" alt="Articles" title="Articles" href="https://notes.jessmart.in/Readwise/Articles/As+We+May+Think+by+Vannevar+Bush" coords="1163,383,1430,485" shape="rect" />
         <area target="" alt="Tweets" title="Tweets" href="https://twitter.com/jessmartin/likes" coords="1174,492,1427,591" shape="rect" />
         <area target="" alt="Videos" title="Videos" href="https://www.youtube.com/jessamartin" coords="1178,611,1427,717" shape="rect" />
+        <area target="" alt="Distill &amp; Disseminate Generalizable Insights" title="Distill &amp; Disseminate Generalizable Insights" href="https://notes.jessmart.in/Lab+Notebook/Evergreen+Notes/Discover+and+disseminate+generalizable+insights" coords="923,578,1054,596,1055,482,920,464" shape="poly" />
       </map>
 
       <p>Return to the <a href="/boring">old, boring homepage</a>.</p>
