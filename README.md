@@ -21,7 +21,17 @@ This is where Jess stores his ramblings, his rants, and his radical project work
 
     The site is now running at `http://localhost:8000`!
 
-    _Note: This also starts up a GraphQL browser at `http://localhost:8000/___graphql`. This is a tool to experiment with querying the data._
+    \_Note: This also starts up a GraphQL browser at `http://localhost:8000/___graphql`. This is a tool to experiment with querying the data.\_
+
+## Workshop Edition
+
+![Workshop Edition](https://jessmart.in/images/webpage-layout.png)
+
+I'm revamping my website to be more like a workshop where you can come and experience my work interactively and collaboratively.
+
+The base website is one giant image linked to various areas by an imagemap.
+
+Working on making it more interactive!
 
 ## 💫 Deployment
 
