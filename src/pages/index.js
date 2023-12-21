@@ -7,10 +7,16 @@ const IndexPage = () => {
     <div style={{ fontFamily: 'Courier', fontWeight: 'bold', textAlign: 'center' }}>
       <Seo title="Jess's Workshop"></Seo>
       <style>{`
+        img#workshop-background {
+          height: 95vh;
+        }
+
         svg {
           position: absolute;
           top: 0;
           left: 0;
+          height: 95vh;
+          display: block;
           pointer-events: none; /* allows clicking through to the image if needed */
         }
 
@@ -21,15 +27,55 @@ const IndexPage = () => {
         }
 
         .svg-link:hover {
-          fill: rgba(255, 255, 255, 0.5); /* Example hover effect, adjust as needed */
-          mix-blend-mode: lighten;
+            fill: rgba(255, 253, 84, 0.4);
+            stroke: rgba(255, 253, 84, 0.4);
+            filter: blur(10px) brightness(2);
+            stroke-width: 5px;
+            mix-blend-mode: hue, darken;
+            animation: hover-glow 0.5s ease-in-out;
+        }
+
+        @keyframes hover-glow {
+          0% {
+            filter: blur(2px) brightness(1);
+            opacity: 0;
+          }
+          100% {
+            filter: blur(10px) brightness(2);
+            opacity: 1;
+          }
+        }
+
+        @keyframes glow {
+          0%, 60% {
+            filter: blur(2px) brightness(1);
+            opacity: 0;
+          }
+          80% {
+            filter: blur(10px) brightness(2);
+            opacity: 0.4;
+          }
+          100% {
+            filter: blur(2px) brightness(1);
+            opacity: 0;
+          }
+        }
+
+        @media (max-width: 600px) {
+          .svg-link {
+            fill: rgba(255, 253, 84, 1);
+            stroke: rgba(255, 253, 84, 1);
+            stroke-width: 5px;
+            mix-blend-mode: hue, darken;
+            animation: glow 2.5s ease-in-out infinite;
+          }
         }
       `}</style>
       <p>Welcome to <a href="https://twitter.com">Jess's</a> workshop.</p>
       <div style={{ position: 'relative', textAlign: 'left' }}>
-        <img src={"/images/webpage-layout.png"} />
+        <img id='workshop-background' src={"/images/webpage-layout.png"} />
 
-        <svg style={{ position: 'absolute', top: '0', left: '0', pointerEvents: 'none' }} width="1538" height="1228" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink">
+        <svg viewBox="0 0 1538 1228" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink">
           <a xlinkHref="https://notes.jessmart.in/Lab+Notebook/Projects/Whiteboard+Snapper"><rect x="108" y="154" width="200" height="305" class="svg-link" /></a>
           <a xlinkHref="https://jessmart.in/articles/tools"><rect x="603" y="112" width="200" height="367" class="svg-link" /></a>
           <a xlinkHref="https://notes.jessmart.in/Lab+Notebook/Projects/Desktop+Browser-based+OS"><polygon points="527,721,1098,728,1314,924,412,913" class="svg-link" /></a>
