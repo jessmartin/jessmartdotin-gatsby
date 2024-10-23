@@ -18,9 +18,15 @@ const Header = ({ siteTitle }) => (
       <h1>
         <a href="/">{siteTitle}</a>
       </h1>
-      <ul class="nav">
+      <ul className="nav">
+        <li>
+          <Link to="/boring">Boring</Link>
+        </li>
         <li>
           <Link to="/writings">Writings</Link>
+        </li>
+        <li>
+          <Link to="https://notes.jessmart.in">Notes</Link>
         </li>
       </ul>
     </div>
