@@ -71,7 +71,7 @@ const IndexPage = () => {
           }
         }
       `}</style>
-      <p>Welcome to <a href="https://twitter.com">Jess's</a> workshop.</p>
+      <p>Welcome to <a href="https://x.com/jessmartin">Jess's</a> workshop.</p>
       <div style={{ position: 'relative', textAlign: 'left' }}>
         <img id='workshop-background' src={"/images/webpage-layout.png"} />
 
