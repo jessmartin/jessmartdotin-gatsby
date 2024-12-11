@@ -71,7 +71,7 @@ const IndexPage = () => {
           }
         }
       `}</style>
-      <p>Welcome to <a href="https://x.com/jessmartin">Jess's</a> workshop.</p>
+      <p>Welcome to <a href="https://bsky.app/profile/jessmart.in">Jess's</a> workshop.</p>
       <div style={{ position: 'relative', textAlign: 'left' }}>
         <img id='workshop-background' src={"/images/webpage-layout.png"} />
 
@@ -85,7 +85,7 @@ const IndexPage = () => {
           <a xlinkHref="/writings"><polygon points="641,596,686,517,757,515,767,556,742,599" class="svg-link" /></a>
           <a xlinkHref="https://notes.jessmart.in/Readwise/Books/A+Pattern+Language"><rect x="1163" y="224" width="280" height="154" class="svg-link" /></a>
           <a xlinkHref="https://notes.jessmart.in/Readwise/Articles/As+We+May+Think+by+Vannevar+Bush"><rect x="1163" y="383" width="267" height="102" class="svg-link" /></a>
-          <a xlinkHref="https://twitter.com/jessmartin/likes"><rect x="1174" y="492" width="253" height="99" class="svg-link" /></a>
+          <a xlinkHref="https://bsky.app/profile/jessmart.in"><rect x="1174" y="492" width="253" height="99" class="svg-link" /></a>
           <a xlinkHref="https://www.youtube.com/jessamartin"><rect x="1178" y="611" width="249" height="106" class="svg-link" /></a>
           <a xlinkHref="https://notes.jessmart.in/Lab+Notebook/Evergreen+Notes/Discover+and+disseminate+generalizable+insights"><polygon points="923,578,1054,596,1055,482,920,464" class="svg-link" /></a>
         </svg>

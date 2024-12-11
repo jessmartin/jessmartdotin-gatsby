@@ -251,7 +251,8 @@ const BoringPage = ({
       <h3>Elsewhere on the web</h3>
       <p>
         My code is on <a href="http://github.com/jessmartin">github</a>.
-        I'm <a href="http://twitter.com/jessmartin">@jessmartin</a> on twitter.
+        I'm on <a href="https://bsky.app/profile/jessmart.in">BlueSky</a>.
+        I was <a href="http://twitter.com/jessmartin">@jessmartin</a> on twitter.
       </p>
     </Layout >
   )
